@@ -225,9 +225,9 @@
     }
   </style>
   <script>
-  // For Georgia, candidate names are already in the election data
+  // For Alabama, candidate names are already in the election data
   function getCandidateName(year, office, party) {
-    // For Georgia, candidate names are already provided in the election data
+    // For Alabama, candidate names are already provided in the election data
     // This function is kept for compatibility but just returns the party name
     return party;
   }
@@ -315,7 +315,7 @@ console.log('GAMap.html script loaded and running');
   <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
   <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6.5.0/turf.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-    <meta charset="UTF-8">
+    <meta charset='utf-8'>
   <title>Alabama Political Realignment Map</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'>
   <meta property="og:title" content="AL Political Realignment Map">
@@ -334,7 +334,7 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   overflow: hidden;
 }
 #map {
@@ -1037,7 +1037,7 @@ document.addEventListener('DOMContentLoaded', function() {
   <!-- Floating Status Panel -->
   <div class="status-panel" id="status-panel" style="display:none;position:fixed;top:20px;right:90px;z-index:10002;background:rgba(255,255,255,0.97);backdrop-filter:blur(10px);padding:18px 24px 18px 18px;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.12);border:1px solid #e5e7eb;max-width:340px;min-width:200px;font-size:15px;color:#34495e;">
     <span id="status-message"></span>
-    <button id="status-exit" title="Close" style="position:absolute;top:10px;right:10px;padding:4px 10px;border-radius:6px;border:none;background:#eee;cursor:pointer;font-weight:bold;font-size:18px;">?</button>
+    <button id="status-exit" title="Close" style="position:absolute;top:10px;right:10px;padding:4px 10px;border-radius:6px;border:none;background:#eee;cursor:pointer;font-weight:bold;font-size:18px;">×</button>
   </div>
     
 
@@ -1047,7 +1047,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="controls-header" style="display:flex;align-items:center;justify-content:space-between;">
             <h3>🗳️ Alabama Election Contests</h3>
             <div style="display:flex;align-items:center;gap:8px;">
-              <button class="minimize-btn" onclick="toggleMainControls()" id="controls-minimize-btn">-</button>
+              <button class="minimize-btn" onclick="toggleMainControls()" id="controls-minimize-btn">−</button>
             </div>
         </div>
         <div class="controls-content" id="controls-content">
@@ -1100,10 +1100,10 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="legend" id="legend">
         <div class="legend-header">
             <h4>Political Categories</h4>
-            <button class="minimize-btn" onclick="toggleLegend()" id="legend-minimize-btn">-</button>
+            <button class="minimize-btn" onclick="toggleLegend()" id="legend-minimize-btn">−</button>
         </div>
         <div class="legend-content" id="legend-content">
-            <div class="legend-item"><div class="legend-color" style="background: #67000d;"></div>Annihilation Republican (>=40.00%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #67000d;"></div>Annihilation Republican (≥40.00%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #a50f15;"></div>Dominant Republican (30.00-39.99%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #cb181d;"></div>Stronghold Republican (20.00-29.99%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #ef3b2c;"></div>Safe Republican (10.00-19.99%)</div>
@@ -1117,7 +1117,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="legend-item"><div class="legend-color" style="background: #6baed6;"></div>Safe Democratic (10.00-19.99%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #3182bd;"></div>Stronghold Democratic (20.00-29.99%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #08519c;"></div>Dominant Democratic (30.00-39.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #08306b;"></div>Annihilation Democratic (>=40.00%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #08306b;"></div>Annihilation Democratic (≥40.00%)</div>
         </div>
     </div>
 
@@ -1526,7 +1526,7 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
       let compLabel = '';
       let compColor = '#6b7280';
       if (marginPct >= 40) {
-        compLabel = winner === 'Republican' ? "Annihilation Republican (>=40.00%)" : "Annihilation Democratic (>=40.00%)";
+        compLabel = winner === 'Republican' ? "Annihilation Republican (≥40.00%)" : "Annihilation Democratic (≥40.00%)";
       } else if (marginPct >= 30) {
         compLabel = winner === 'Republican' ? "Dominant Republican (30.00-39.99%)" : "Dominant Democratic (30.00-39.99%)";
         compColor = winner === 'Republican' ? '#7f1d1d' : '#1e3a8a';
@@ -1714,7 +1714,7 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
         // Expand legend
         legend.classList.remove('minimized');
         legendContent.style.display = 'block';
-        minimizeBtn.textContent = '-';
+        minimizeBtn.textContent = '−';
         minimizeBtn.title = 'Minimize legend';
       } else {
         // Minimize legend
@@ -1735,7 +1735,7 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
         // Expand controls
         controls.classList.remove('minimized');
         controlsContent.style.display = 'block';
-        minimizeBtn.textContent = '-';
+        minimizeBtn.textContent = '−';
         minimizeBtn.title = 'Minimize controls';
       } else {
         // Minimize controls
@@ -1754,7 +1754,7 @@ function toggleSidebar() {
     // Expand sidebar
     sidebar.classList.remove('minimized');
     if (sidebarContent) sidebarContent.style.display = '';
-    minimizeBtn.textContent = '-';
+    minimizeBtn.textContent = '−';
     minimizeBtn.title = 'Minimize sidebar';
   } else {
     // Minimize sidebar
@@ -1776,7 +1776,7 @@ function toggleSidebar() {
         const sc = document.querySelector('.sidebar-content');
         if (sc) sc.style.display = '';
         const btn = document.getElementById('sidebar-minimize-btn');
-        if (btn) btn.textContent = '-';
+        if (btn) btn.textContent = '−';
       }
       const countyNameElement = document.getElementById('county-name');
       if (countyNameElement) countyNameElement.textContent = countyName + ' County';
@@ -1809,7 +1809,7 @@ function toggleSidebar() {
       // Get contest info from the current contest
       const contestName = currentContest.data.contest_name || 'Contest';
       const year = currentContest.year;
-      // Get votes from the Georgia data structure
+      // Get votes from the Alabama data structure
       const demVotes = countyData.dem_votes || countyData.Democratic || countyData.dem || 0;
       const repVotes = countyData.rep_votes || countyData.Republican || countyData.rep || 0;
       const otherVotes = countyData.other_votes || 0;
@@ -2099,7 +2099,7 @@ function toggleSidebar() {
         const sc = document.querySelector('.sidebar-content');
         if (sc) sc.style.display = '';
         const btn = document.getElementById('sidebar-minimize-btn');
-                if (btn) btn.textContent = '-';
+                if (btn) btn.textContent = '−';
               }
             }
           }
@@ -3277,7 +3277,7 @@ function toggleSidebar() {
 
     function applyCountyContest(contestType, year) {
       
-  // Get contest data from Georgia JSON structure
+  // Get contest data from Alabama JSON structure
       if (!electionData || !electionData.results_by_year || !electionData.results_by_year[year]) {
         return setStatus('No data available for this year');
       }
@@ -3295,7 +3295,7 @@ function toggleSidebar() {
         return setStatus('No contest results found');
       }
       
-  // Build color expression for Georgia counties
+  // Build color expression for Alabama counties
       const expr = ['case'];
       let countiesProcessed = 0;
       
@@ -3346,7 +3346,7 @@ function toggleSidebar() {
       
       // Update contest display
   document.getElementById('contest-name').textContent = `${formatContestName(contestType, year)} (${year})`;
-  setStatus(`Applied Georgia contest: ${formatContestName(contestType, year)} (${countiesProcessed} counties)`);
+  setStatus(`Applied Alabama contest: ${formatContestName(contestType, year)} (${countiesProcessed} counties)`);
     }
 
     function applyDistrictContest(contestType, year) {
@@ -3450,7 +3450,7 @@ document.addEventListener('DOMContentLoaded', function() {
     };
   }
 
-  // Set up Georgia-specific event listeners
+  // Set up Alabama-specific event listeners
   document.getElementById('contestSelect').addEventListener('change', onContestChange);
 
   // Make functions global (already defined above)
@@ -3668,6 +3668,7 @@ map.on('styledata', function() {
 </script>
 </body>
 </html>
+
 
 
 
