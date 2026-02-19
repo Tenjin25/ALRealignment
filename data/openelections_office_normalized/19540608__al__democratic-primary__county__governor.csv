@@ -1,0 +1,484 @@
+county,precinct,office,district,party,candidate,votes
+Autauga,,Governor,,,Jas. B. Allen,196
+Autauga,,Governor,,,Jimmy Faulkner,842
+Autauga,,Governor,,,J.E. Folsom,1724
+Autauga,,Governor,,,James Gullate,6
+Autauga,,Governor,,,J. Bruce Henderson,439
+Autauga,,Governor,,,C.C. Owen,141
+Autauga,,Governor,,,Henry Sweet,1
+Baldwin,,Governor,,,Jas. B. Allen,339
+Baldwin,,Governor,,,Jimmy Faulkner,4957
+Baldwin,,Governor,,,J.E. Folsom,4065
+Baldwin,,Governor,,,James Gullate,12
+Baldwin,,Governor,,,J. Bruce Henderson,669
+Baldwin,,Governor,,,C.C. Owen,83
+Baldwin,,Governor,,,Henry Sweet,27
+Barbour,,Governor,,,Jas. B. Allen,255
+Barbour,,Governor,,,Jimmy Faulkner,1018
+Barbour,,Governor,,,J.E. Folsom,3332
+Barbour,,Governor,,,James Gullate,3
+Barbour,,Governor,,,J. Bruce Henderson,600
+Barbour,,Governor,,,C.C. Owen,34
+Barbour,,Governor,,,Henry Sweet,9
+Bibb,,Governor,,,Jas. B. Allen,99
+Bibb,,Governor,,,Jimmy Faulkner,381
+Bibb,,Governor,,,J.E. Folsom,2263
+Bibb,,Governor,,,James Gullate,3
+Bibb,,Governor,,,J. Bruce Henderson,138
+Bibb,,Governor,,,C.C. Owen,1873
+Bibb,,Governor,,,Henry Sweet,5
+Blount,,Governor,,,Jas. B. Allen,630
+Blount,,Governor,,,Jimmy Faulkner,1140
+Blount,,Governor,,,J.E. Folsom,6135
+Blount,,Governor,,,James Gullate,13
+Blount,,Governor,,,J. Bruce Henderson,198
+Blount,,Governor,,,C.C. Owen,152
+Blount,,Governor,,,Henry Sweet,25
+Bullock,,Governor,,,Jas. B. Allen,302
+Bullock,,Governor,,,Jimmy Faulkner,199
+Bullock,,Governor,,,J.E. Folsom,1036
+Bullock,,Governor,,,James Gullate,12
+Bullock,,Governor,,,J. Bruce Henderson,594
+Bullock,,Governor,,,C.C. Owen,18
+Bullock,,Governor,,,Henry Sweet,0
+Butler,,Governor,,,Jas. B. Allen,377
+Butler,,Governor,,,Jimmy Faulkner,1072
+Butler,,Governor,,,J.E. Folsom,3422
+Butler,,Governor,,,James Gullate,15
+Butler,,Governor,,,J. Bruce Henderson,1041
+Butler,,Governor,,,C.C. Owen,55
+Butler,,Governor,,,Henry Sweet,32
+Calhoun,,Governor,,,Jas. B. Allen,3117
+Calhoun,,Governor,,,Jimmy Faulkner,4333
+Calhoun,,Governor,,,J.E. Folsom,6581
+Calhoun,,Governor,,,James Gullate,68
+Calhoun,,Governor,,,J. Bruce Henderson,679
+Calhoun,,Governor,,,C.C. Owen,1402
+Calhoun,,Governor,,,Henry Sweet,78
+Chambers,,Governor,,,Jas. B. Allen,850
+Chambers,,Governor,,,Jimmy Faulkner,2632
+Chambers,,Governor,,,J.E. Folsom,3198
+Chambers,,Governor,,,James Gullate,12
+Chambers,,Governor,,,J. Bruce Henderson,1110
+Chambers,,Governor,,,C.C. Owen,172
+Chambers,,Governor,,,Henry Sweet,9
+Cherokee,,Governor,,,Jas. B. Allen,789
+Cherokee,,Governor,,,Jimmy Faulkner,756
+Cherokee,,Governor,,,J.E. Folsom,3457
+Cherokee,,Governor,,,James Gullate,20
+Cherokee,,Governor,,,J. Bruce Henderson,396
+Cherokee,,Governor,,,C.C. Owen,242
+Cherokee,,Governor,,,Henry Sweet,11
+Chilton,,Governor,,,Jas. B. Allen,476
+Chilton,,Governor,,,Jimmy Faulkner,1854
+Chilton,,Governor,,,J.E. Folsom,3519
+Chilton,,Governor,,,James Gullate,18
+Chilton,,Governor,,,J. Bruce Henderson,477
+Chilton,,Governor,,,C.C. Owen,335
+Chilton,,Governor,,,Henry Sweet,11
+Choctaw,,Governor,,,Jas. B. Allen,231
+Choctaw,,Governor,,,Jimmy Faulkner,555
+Choctaw,,Governor,,,J.E. Folsom,2637
+Choctaw,,Governor,,,James Gullate,11
+Choctaw,,Governor,,,J. Bruce Henderson,400
+Choctaw,,Governor,,,C.C. Owen,195
+Choctaw,,Governor,,,Henry Sweet,19
+Clarke,,Governor,,,Jas. B. Allen,306
+Clarke,,Governor,,,Jimmy Faulkner,1058
+Clarke,,Governor,,,J.E. Folsom,3557
+Clarke,,Governor,,,James Gullate,8
+Clarke,,Governor,,,J. Bruce Henderson,1028
+Clarke,,Governor,,,C.C. Owen,206
+Clarke,,Governor,,,Henry Sweet,12
+Clay,,Governor,,,Jas. B. Allen,530
+Clay,,Governor,,,Jimmy Faulkner,1164
+Clay,,Governor,,,J.E. Folsom,3057
+Clay,,Governor,,,James Gullate,14
+Clay,,Governor,,,J. Bruce Henderson,172
+Clay,,Governor,,,C.C. Owen,346
+Clay,,Governor,,,Henry Sweet,12
+Cleburne,,Governor,,,Jas. B. Allen,416
+Cleburne,,Governor,,,Jimmy Faulkner,764
+Cleburne,,Governor,,,J.E. Folsom,2742
+Cleburne,,Governor,,,James Gullate,13
+Cleburne,,Governor,,,J. Bruce Henderson,106
+Cleburne,,Governor,,,C.C. Owen,309
+Cleburne,,Governor,,,Henry Sweet,15
+Coffee,,Governor,,,Jas. B. Allen,161
+Coffee,,Governor,,,Jimmy Faulkner,768
+Coffee,,Governor,,,J.E. Folsom,5732
+Coffee,,Governor,,,James Gullate,18
+Coffee,,Governor,,,J. Bruce Henderson,434
+Coffee,,Governor,,,C.C. Owen,30
+Coffee,,Governor,,,Henry Sweet,4
+Colbert,,Governor,,,Jas. B. Allen,694
+Colbert,,Governor,,,Jimmy Faulkner,2927
+Colbert,,Governor,,,J.E. Folsom,5234
+Colbert,,Governor,,,James Gullate,29
+Colbert,,Governor,,,J. Bruce Henderson,309
+Colbert,,Governor,,,C.C. Owen,515
+Colbert,,Governor,,,Henry Sweet,16
+Conecuh,,Governor,,,Jas. B. Allen,192
+Conecuh,,Governor,,,Jimmy Faulkner,912
+Conecuh,,Governor,,,J.E. Folsom,2957
+Conecuh,,Governor,,,James Gullate,8
+Conecuh,,Governor,,,J. Bruce Henderson,457
+Conecuh,,Governor,,,C.C. Owen,133
+Conecuh,,Governor,,,Henry Sweet,4
+Coosa,,Governor,,,Jas. B. Allen,226
+Coosa,,Governor,,,Jimmy Faulkner,985
+Coosa,,Governor,,,J.E. Folsom,2411
+Coosa,,Governor,,,James Gullate,11
+Coosa,,Governor,,,J. Bruce Henderson,249
+Coosa,,Governor,,,C.C. Owen,134
+Coosa,,Governor,,,Henry Sweet,6
+Covington,,Governor,,,Jas. B. Allen,385
+Covington,,Governor,,,Jimmy Faulkner,3166
+Covington,,Governor,,,J.E. Folsom,6179
+Covington,,Governor,,,James Gullate,16
+Covington,,Governor,,,J. Bruce Henderson,1161
+Covington,,Governor,,,C.C. Owen,153
+Covington,,Governor,,,Henry Sweet,9
+Crenshaw,,Governor,,,Jas. B. Allen,189
+Crenshaw,,Governor,,,Jimmy Faulkner,899
+Crenshaw,,Governor,,,J.E. Folsom,4160
+Crenshaw,,Governor,,,James Gullate,21
+Crenshaw,,Governor,,,J. Bruce Henderson,536
+Crenshaw,,Governor,,,C.C. Owen,50
+Crenshaw,,Governor,,,Henry Sweet,6
+Cullman,,Governor,,,Jas. B. Allen,526
+Cullman,,Governor,,,Jimmy Faulkner,2237
+Cullman,,Governor,,,J.E. Folsom,8465
+Cullman,,Governor,,,James Gullate,26
+Cullman,,Governor,,,J. Bruce Henderson,289
+Cullman,,Governor,,,C.C. Owen,135
+Cullman,,Governor,,,Henry Sweet,12
+Dale,,Governor,,,Jas. B. Allen,336
+Dale,,Governor,,,Jimmy Faulkner,1288
+Dale,,Governor,,,J.E. Folsom,3699
+Dale,,Governor,,,James Gullate,12
+Dale,,Governor,,,J. Bruce Henderson,649
+Dale,,Governor,,,C.C. Owen,60
+Dale,,Governor,,,Henry Sweet,4
+Dallas,,Governor,,,Jas. B. Allen,1015
+Dallas,,Governor,,,Jimmy Faulkner,1823
+Dallas,,Governor,,,J.E. Folsom,1685
+Dallas,,Governor,,,James Gullate,61
+Dallas,,Governor,,,J. Bruce Henderson,1767
+Dallas,,Governor,,,C.C. Owen,189
+Dallas,,Governor,,,Henry Sweet,4
+Dekalb,,Governor,,,Jas. B. Allen,1091
+Dekalb,,Governor,,,Jimmy Faulkner,1196
+Dekalb,,Governor,,,J.E. Folsom,6293
+Dekalb,,Governor,,,James Gullate,38
+Dekalb,,Governor,,,J. Bruce Henderson,129
+Dekalb,,Governor,,,C.C. Owen,237
+Dekalb,,Governor,,,Henry Sweet,7
+Elmore,,Governor,,,Jas. B. Allen,488
+Elmore,,Governor,,,Jimmy Faulkner,2089
+Elmore,,Governor,,,J.E. Folsom,5058
+Elmore,,Governor,,,James Gullate,29
+Elmore,,Governor,,,J. Bruce Henderson,844
+Elmore,,Governor,,,C.C. Owen,81
+Elmore,,Governor,,,Henry Sweet,14
+Escambia,,Governor,,,Jas. B. Allen,374
+Escambia,,Governor,,,Jimmy Faulkner,1760
+Escambia,,Governor,,,J.E. Folsom,4619
+Escambia,,Governor,,,James Gullate,14
+Escambia,,Governor,,,J. Bruce Henderson,1015
+Escambia,,Governor,,,C.C. Owen,82
+Escambia,,Governor,,,Henry Sweet,11
+Etowah,,Governor,,,Jas. B. Allen,6449
+Etowah,,Governor,,,Jimmy Faulkner,4199
+Etowah,,Governor,,,J.E. Folsom,13029
+Etowah,,Governor,,,James Gullate,86
+Etowah,,Governor,,,J. Bruce Henderson,392
+Etowah,,Governor,,,C.C. Owen,665
+Etowah,,Governor,,,Henry Sweet,22
+Fayette,,Governor,,,Jas. B. Allen,360
+Fayette,,Governor,,,Jimmy Faulkner,1398
+Fayette,,Governor,,,J.E. Folsom,3131
+Fayette,,Governor,,,James Gullate,22
+Fayette,,Governor,,,J. Bruce Henderson,60
+Fayette,,Governor,,,C.C. Owen,211
+Fayette,,Governor,,,Henry Sweet,2
+Franklin,,Governor,,,Jas. B. Allen,389
+Franklin,,Governor,,,Jimmy Faulkner,2141
+Franklin,,Governor,,,J.E. Folsom,4588
+Franklin,,Governor,,,James Gullate,15
+Franklin,,Governor,,,J. Bruce Henderson,166
+Franklin,,Governor,,,C.C. Owen,372
+Franklin,,Governor,,,Henry Sweet,13
+Geneva,,Governor,,,Jas. B. Allen,175
+Geneva,,Governor,,,Jimmy Faulkner,722
+Geneva,,Governor,,,J.E. Folsom,4541
+Geneva,,Governor,,,James Gullate,37
+Geneva,,Governor,,,J. Bruce Henderson,478
+Geneva,,Governor,,,C.C. Owen,29
+Geneva,,Governor,,,Henry Sweet,7
+Greene,,Governor,,,Jas. B. Allen,202
+Greene,,Governor,,,Jimmy Faulkner,151
+Greene,,Governor,,,J.E. Folsom,526
+Greene,,Governor,,,James Gullate,3
+Greene,,Governor,,,J. Bruce Henderson,181
+Greene,,Governor,,,C.C. Owen,428
+Greene,,Governor,,,Henry Sweet,23
+Hale,,Governor,,,Jas. B. Allen,475
+Hale,,Governor,,,Jimmy Faulkner,610
+Hale,,Governor,,,J.E. Folsom,1048
+Hale,,Governor,,,James Gullate,11
+Hale,,Governor,,,J. Bruce Henderson,514
+Hale,,Governor,,,C.C. Owen,330
+Hale,,Governor,,,Henry Sweet,0
+Henry,,Governor,,,Jas. B. Allen,172
+Henry,,Governor,,,Jimmy Faulkner,605
+Henry,,Governor,,,J.E. Folsom,2579
+Henry,,Governor,,,James Gullate,10
+Henry,,Governor,,,J. Bruce Henderson,469
+Henry,,Governor,,,C.C. Owen,155
+Henry,,Governor,,,Henry Sweet,3
+Houston,,Governor,,,Jas. B. Allen,747
+Houston,,Governor,,,Jimmy Faulkner,1230
+Houston,,Governor,,,J.E. Folsom,4692
+Houston,,Governor,,,James Gullate,144
+Houston,,Governor,,,J. Bruce Henderson,1047
+Houston,,Governor,,,C.C. Owen,115
+Houston,,Governor,,,Henry Sweet,18
+Jackson,,Governor,,,Jas. B. Allen,500
+Jackson,,Governor,,,Jimmy Faulkner,2050
+Jackson,,Governor,,,J.E. Folsom,5345
+Jackson,,Governor,,,James Gullate,32
+Jackson,,Governor,,,J. Bruce Henderson,332
+Jackson,,Governor,,,C.C. Owen,741
+Jackson,,Governor,,,Henry Sweet,11
+Jefferson,,Governor,,,Jas. B. Allen,11938
+Jefferson,,Governor,,,Jimmy Faulkner,25556
+Jefferson,,Governor,,,J.E. Folsom,24250
+Jefferson,,Governor,,,James Gullate,196
+Jefferson,,Governor,,,J. Bruce Henderson,5853
+Jefferson,,Governor,,,C.C. Owen,2041
+Jefferson,,Governor,,,Henry Sweet,1565
+Lamar,,Governor,,,Jas. B. Allen,92
+Lamar,,Governor,,,Jimmy Faulkner,3291
+Lamar,,Governor,,,J.E. Folsom,2756
+Lamar,,Governor,,,James Gullate,19
+Lamar,,Governor,,,J. Bruce Henderson,51
+Lamar,,Governor,,,C.C. Owen,85
+Lamar,,Governor,,,Henry Sweet,13
+Lauderdale,,Governor,,,Jas. B. Allen,918
+Lauderdale,,Governor,,,Jimmy Faulkner,4932
+Lauderdale,,Governor,,,J.E. Folsom,5872
+Lauderdale,,Governor,,,James Gullate,19
+Lauderdale,,Governor,,,J. Bruce Henderson,309
+Lauderdale,,Governor,,,C.C. Owen,770
+Lauderdale,,Governor,,,Henry Sweet,17
+Lawrence,,Governor,,,Jas. B. Allen,832
+Lawrence,,Governor,,,Jimmy Faulkner,1173
+Lawrence,,Governor,,,J.E. Folsom,3623
+Lawrence,,Governor,,,James Gullate,24
+Lawrence,,Governor,,,J. Bruce Henderson,265
+Lawrence,,Governor,,,C.C. Owen,721
+Lawrence,,Governor,,,Henry Sweet,8
+Lee,,Governor,,,Jas. B. Allen,1057
+Lee,,Governor,,,Jimmy Faulkner,2182
+Lee,,Governor,,,J.E. Folsom,2354
+Lee,,Governor,,,James Gullate,323
+Lee,,Governor,,,J. Bruce Henderson,693
+Lee,,Governor,,,C.C. Owen,147
+Lee,,Governor,,,Henry Sweet,20
+Limestone,,Governor,,,Jas. B. Allen,675
+Limestone,,Governor,,,Jimmy Faulkner,1453
+Limestone,,Governor,,,J.E. Folsom,2739
+Limestone,,Governor,,,James Gullate,13
+Limestone,,Governor,,,J. Bruce Henderson,478
+Limestone,,Governor,,,C.C. Owen,1117
+Limestone,,Governor,,,Henry Sweet,9
+Lowndes,,Governor,,,Jas. B. Allen,84
+Lowndes,,Governor,,,Jimmy Faulkner,343
+Lowndes,,Governor,,,J.E. Folsom,829
+Lowndes,,Governor,,,James Gullate,3
+Lowndes,,Governor,,,J. Bruce Henderson,590
+Lowndes,,Governor,,,C.C. Owen,26
+Lowndes,,Governor,,,Henry Sweet,0
+Macon,,Governor,,,Jas. B. Allen,247
+Macon,,Governor,,,Jimmy Faulkner,622
+Macon,,Governor,,,J.E. Folsom,1647
+Macon,,Governor,,,James Gullate,18
+Macon,,Governor,,,J. Bruce Henderson,652
+Macon,,Governor,,,C.C. Owen,26
+Macon,,Governor,,,Henry Sweet,6
+Madison,,Governor,,,Jas. B. Allen,2258
+Madison,,Governor,,,Jimmy Faulkner,3502
+Madison,,Governor,,,J.E. Folsom,5175
+Madison,,Governor,,,James Gullate,44
+Madison,,Governor,,,J. Bruce Henderson,1121
+Madison,,Governor,,,C.C. Owen,359
+Madison,,Governor,,,Henry Sweet,21
+Marengo,,Governor,,,Jas. B. Allen,444
+Marengo,,Governor,,,Jimmy Faulkner,885
+Marengo,,Governor,,,J.E. Folsom,1839
+Marengo,,Governor,,,James Gullate,31
+Marengo,,Governor,,,J. Bruce Henderson,1003
+Marengo,,Governor,,,C.C. Owen,408
+Marengo,,Governor,,,Henry Sweet,10
+Marion,,Governor,,,Jas. B. Allen,292
+Marion,,Governor,,,Jimmy Faulkner,1958
+Marion,,Governor,,,J.E. Folsom,6431
+Marion,,Governor,,,James Gullate,30
+Marion,,Governor,,,J. Bruce Henderson,82
+Marion,,Governor,,,C.C. Owen,284
+Marion,,Governor,,,Henry Sweet,22
+Marshall,,Governor,,,Jas. B. Allen,935
+Marshall,,Governor,,,Jimmy Faulkner,2335
+Marshall,,Governor,,,J.E. Folsom,9807
+Marshall,,Governor,,,James Gullate,45
+Marshall,,Governor,,,J. Bruce Henderson,205
+Marshall,,Governor,,,C.C. Owen,259
+Marshall,,Governor,,,Henry Sweet,15
+Mobile,,Governor,,,Jas. B. Allen,4654
+Mobile,,Governor,,,Jimmy Faulkner,12129
+Mobile,,Governor,,,J.E. Folsom,13539
+Mobile,,Governor,,,James Gullate,217
+Mobile,,Governor,,,J. Bruce Henderson,2798
+Mobile,,Governor,,,C.C. Owen,859
+Mobile,,Governor,,,Henry Sweet,171
+Monroe,,Governor,,,Jas. B. Allen,158
+Monroe,,Governor,,,Jimmy Faulkner,1429
+Monroe,,Governor,,,J.E. Folsom,2236
+Monroe,,Governor,,,James Gullate,7
+Monroe,,Governor,,,J. Bruce Henderson,623
+Monroe,,Governor,,,C.C. Owen,47
+Monroe,,Governor,,,Henry Sweet,2
+Montgomery,,Governor,,,Jas. B. Allen,2216
+Montgomery,,Governor,,,Jimmy Faulkner,6697
+Montgomery,,Governor,,,J.E. Folsom,8790
+Montgomery,,Governor,,,James Gullate,40
+Montgomery,,Governor,,,J. Bruce Henderson,2324
+Montgomery,,Governor,,,C.C. Owen,273
+Montgomery,,Governor,,,Henry Sweet,15
+Morgan,,Governor,,,Jas. B. Allen,2362
+Morgan,,Governor,,,Jimmy Faulkner,2869
+Morgan,,Governor,,,J.E. Folsom,6613
+Morgan,,Governor,,,James Gullate,42
+Morgan,,Governor,,,J. Bruce Henderson,854
+Morgan,,Governor,,,C.C. Owen,921
+Morgan,,Governor,,,Henry Sweet,22
+Perry,,Governor,,,Jas. B. Allen,350
+Perry,,Governor,,,Jimmy Faulkner,661
+Perry,,Governor,,,J.E. Folsom,1142
+Perry,,Governor,,,James Gullate,4
+Perry,,Governor,,,J. Bruce Henderson,489
+Perry,,Governor,,,C.C. Owen,260
+Perry,,Governor,,,Henry Sweet,4
+Pickens,,Governor,,,Jas. B. Allen,249
+Pickens,,Governor,,,Jimmy Faulkner,1353
+Pickens,,Governor,,,J.E. Folsom,2212
+Pickens,,Governor,,,James Gullate,8
+Pickens,,Governor,,,J. Bruce Henderson,823
+Pickens,,Governor,,,C.C. Owen,235
+Pickens,,Governor,,,Henry Sweet,5
+Pike,,Governor,,,Jas. B. Allen,378
+Pike,,Governor,,,Jimmy Faulkner,1683
+Pike,,Governor,,,J.E. Folsom,3437
+Pike,,Governor,,,James Gullate,8
+Pike,,Governor,,,J. Bruce Henderson,605
+Pike,,Governor,,,C.C. Owen,61
+Pike,,Governor,,,Henry Sweet,6
+Randolph,,Governor,,,Jas. B. Allen,599
+Randolph,,Governor,,,Jimmy Faulkner,1453
+Randolph,,Governor,,,J.E. Folsom,4568
+Randolph,,Governor,,,James Gullate,29
+Randolph,,Governor,,,J. Bruce Henderson,320
+Randolph,,Governor,,,C.C. Owen,329
+Randolph,,Governor,,,Henry Sweet,9
+Russell,,Governor,,,Jas. B. Allen,283
+Russell,,Governor,,,Jimmy Faulkner,664
+Russell,,Governor,,,J.E. Folsom,4020
+Russell,,Governor,,,James Gullate,102
+Russell,,Governor,,,J. Bruce Henderson,1091
+Russell,,Governor,,,C.C. Owen,95
+Russell,,Governor,,,Henry Sweet,32
+Shelby,,Governor,,,Jas. B. Allen,511
+Shelby,,Governor,,,Jimmy Faulkner,2079
+Shelby,,Governor,,,J.E. Folsom,3856
+Shelby,,Governor,,,James Gullate,11
+Shelby,,Governor,,,J. Bruce Henderson,617
+Shelby,,Governor,,,C.C. Owen,265
+Shelby,,Governor,,,Henry Sweet,16
+St. Clair,,Governor,,,Jas. B. Allen,422
+St. Clair,,Governor,,,Jimmy Faulkner,1407
+St. Clair,,Governor,,,J.E. Folsom,3771
+St. Clair,,Governor,,,James Gullate,26
+St. Clair,,Governor,,,J. Bruce Henderson,212
+St. Clair,,Governor,,,C.C. Owen,189
+St. Clair,,Governor,,,Henry Sweet,4
+Sumter,,Governor,,,Jas. B. Allen,188
+Sumter,,Governor,,,Jimmy Faulkner,759
+Sumter,,Governor,,,J.E. Folsom,613
+Sumter,,Governor,,,James Gullate,12
+Sumter,,Governor,,,J. Bruce Henderson,617
+Sumter,,Governor,,,C.C. Owen,334
+Sumter,,Governor,,,Henry Sweet,15
+Talladega,,Governor,,,Jas. B. Allen,1418
+Talladega,,Governor,,,Jimmy Faulkner,4256
+Talladega,,Governor,,,J.E. Folsom,6704
+Talladega,,Governor,,,James Gullate,31
+Talladega,,Governor,,,J. Bruce Henderson,782
+Talladega,,Governor,,,C.C. Owen,465
+Talladega,,Governor,,,Henry Sweet,24
+Tallapoosa,,Governor,,,Jas. B. Allen,533
+Tallapoosa,,Governor,,,Jimmy Faulkner,2355
+Tallapoosa,,Governor,,,J.E. Folsom,6346
+Tallapoosa,,Governor,,,James Gullate,40
+Tallapoosa,,Governor,,,J. Bruce Henderson,1151
+Tallapoosa,,Governor,,,C.C. Owen,214
+Tallapoosa,,Governor,,,Henry Sweet,14
+Tuscaloosa,,Governor,,,Jas. B. Allen,2503
+Tuscaloosa,,Governor,,,Jimmy Faulkner,4387
+Tuscaloosa,,Governor,,,J.E. Folsom,8412
+Tuscaloosa,,Governor,,,James Gullate,73
+Tuscaloosa,,Governor,,,J. Bruce Henderson,1142
+Tuscaloosa,,Governor,,,C.C. Owen,1094
+Tuscaloosa,,Governor,,,Henry Sweet,39
+Walker,,Governor,,,Jas. B. Allen,656
+Walker,,Governor,,,Jimmy Faulkner,3277
+Walker,,Governor,,,J.E. Folsom,10171
+Walker,,Governor,,,James Gullate,32
+Walker,,Governor,,,J. Bruce Henderson,393
+Walker,,Governor,,,C.C. Owen,430
+Walker,,Governor,,,Henry Sweet,16
+Washington,,Governor,,,Jas. B. Allen,133
+Washington,,Governor,,,Jimmy Faulkner,641
+Washington,,Governor,,,J.E. Folsom,2910
+Washington,,Governor,,,James Gullate,6
+Washington,,Governor,,,J. Bruce Henderson,836
+Washington,,Governor,,,C.C. Owen,231
+Washington,,Governor,,,Henry Sweet,16
+Wilcox,,Governor,,,Jas. B. Allen,82
+Wilcox,,Governor,,,Jimmy Faulkner,165
+Wilcox,,Governor,,,J.E. Folsom,777
+Wilcox,,Governor,,,James Gullate,3
+Wilcox,,Governor,,,J. Bruce Henderson,1438
+Wilcox,,Governor,,,C.C. Owen,53
+Wilcox,,Governor,,,Henry Sweet,0
+Winston,,Governor,,,Jas. B. Allen,154
+Winston,,Governor,,,Jimmy Faulkner,548
+Winston,,Governor,,,J.E. Folsom,1259
+Winston,,Governor,,,James Gullate,4
+Winston,,Governor,,,J. Bruce Henderson,27
+Winston,,Governor,,,C.C. Owen,117
+Winston,,Governor,,,Henry Sweet,1
+Calculated,,Governor,,,Jas. B. Allen,61680
+Calculated,,Governor,,,Jimmy Faulkner,152925
+Calculated,,Governor,,,J.E. Folsom,305394
+Calculated,,Governor,,,James Gullate,2331
+Calculated,,Governor,,,J. Bruce Henderson,47969
+Calculated,,Governor,,,C.C. Owen,23123
+Calculated,,Governor,,,Henry Sweet,2579
+Reported,,Governor,,,Jas. B. Allen,61530
+Reported,,Governor,,,Jimmy Faulkner,151925
+Reported,,Governor,,,J.E. Folsom,305384
+Reported,,Governor,,,James Gullate,2371
+Reported,,Governor,,,J. Bruce Henderson,47969
+Reported,,Governor,,,C.C. Owen,22623
+Reported,,Governor,,,Henry Sweet,2579

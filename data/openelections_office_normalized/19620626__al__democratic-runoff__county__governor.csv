@@ -1,0 +1,139 @@
+county,precinct,office,district,party,candidate,votes
+Autauga,,Governor,,,Ryan de Graffenried,751
+Autauga,,Governor,,,George Wallace,2192
+Baldwin,,Governor,,,Ryan de Graffenried,4392
+Baldwin,,Governor,,,George Wallace,5956
+Barbour,,Governor,,,Ryan de Graffenried,503
+Barbour,,Governor,,,George Wallace,5156
+Bibb,,Governor,,,Ryan de Graffenried,716
+Bibb,,Governor,,,George Wallace,2372
+Blount,,Governor,,,Ryan de Graffenried,2966
+Blount,,Governor,,,George Wallace,3524
+Bullock,,Governor,,,Ryan de Graffenried,783
+Bullock,,Governor,,,George Wallace,1700
+Butler,,Governor,,,Ryan de Graffenried,1291
+Butler,,Governor,,,George Wallace,3306
+Calhoun,,Governor,,,Ryan de Graffenried,6781
+Calhoun,,Governor,,,George Wallace,8408
+Chambers,,Governor,,,Ryan de Graffenried,4304
+Chambers,,Governor,,,George Wallace,3899
+Cherokee,,Governor,,,Ryan de Graffenried,2731
+Cherokee,,Governor,,,George Wallace,3053
+Chilton,,Governor,,,Ryan de Graffenried,1451
+Chilton,,Governor,,,George Wallace,4686
+Choctaw,,Governor,,,Ryan de Graffenried,883
+Choctaw,,Governor,,,George Wallace,2757
+Clarke,,Governor,,,Ryan de Graffenried,1611
+Clarke,,Governor,,,George Wallace,3771
+Clay,,Governor,,,Ryan de Graffenried,1895
+Clay,,Governor,,,George Wallace,2800
+Cleburne,,Governor,,,Ryan de Graffenried,1209
+Cleburne,,Governor,,,George Wallace,2774
+Coffee,,Governor,,,Ryan de Graffenried,1549
+Coffee,,Governor,,,George Wallace,4902
+Colbert,,Governor,,,Ryan de Graffenried,6584
+Colbert,,Governor,,,George Wallace,5090
+Conecuh,,Governor,,,Ryan de Graffenried,667
+Conecuh,,Governor,,,George Wallace,2486
+Coosa,,Governor,,,Ryan de Graffenried,1624
+Coosa,,Governor,,,George Wallace,1848
+Covington,,Governor,,,Ryan de Graffenried,2814
+Covington,,Governor,,,George Wallace,7284
+Crenshaw,,Governor,,,Ryan de Graffenried,994
+Crenshaw,,Governor,,,George Wallace,3221
+Cullman,,Governor,,,Ryan de Graffenried,4104
+Cullman,,Governor,,,George Wallace,5450
+Dale,,Governor,,,Ryan de Graffenried,967
+Dale,,Governor,,,George Wallace,4832
+Dallas,,Governor,,,Ryan de Graffenried,1602
+Dallas,,Governor,,,George Wallace,4380
+Dekalb,,Governor,,,Ryan de Graffenried,4545
+Dekalb,,Governor,,,George Wallace,5198
+Elmore,,Governor,,,Ryan de Graffenried,1882
+Elmore,,Governor,,,George Wallace,5273
+Escambia,,Governor,,,Ryan de Graffenried,2392
+Escambia,,Governor,,,George Wallace,5327
+Etowah,,Governor,,,Ryan de Graffenried,12051
+Etowah,,Governor,,,George Wallace,8448
+Fayette,,Governor,,,Ryan de Graffenried,2003
+Fayette,,Governor,,,George Wallace,3471
+Franklin,,Governor,,,Ryan de Graffenried,2648
+Franklin,,Governor,,,George Wallace,3439
+Geneva,,Governor,,,Ryan de Graffenried,1306
+Geneva,,Governor,,,George Wallace,4126
+Greene,,Governor,,,Ryan de Graffenried,629
+Greene,,Governor,,,George Wallace,836
+Hale,,Governor,,,Ryan de Graffenried,682
+Hale,,Governor,,,George Wallace,1830
+Henry,,Governor,,,Ryan de Graffenried,584
+Henry,,Governor,,,George Wallace,3028
+Houston,,Governor,,,Ryan de Graffenried,2048
+Houston,,Governor,,,George Wallace,7203
+Jackson,,Governor,,,Ryan de Graffenried,3241
+Jackson,,Governor,,,George Wallace,5067
+Jefferson,,Governor,,,Ryan de Graffenried,56000
+Jefferson,,Governor,,,George Wallace,40472
+Lamar,,Governor,,,Ryan de Graffenried,2008
+Lamar,,Governor,,,George Wallace,3560
+Lauderdale,,Governor,,,Ryan de Graffenried,6478
+Lauderdale,,Governor,,,George Wallace,5855
+Lawrence,,Governor,,,Ryan de Graffenried,2976
+Lawrence,,Governor,,,George Wallace,3305
+Lee,,Governor,,,Ryan de Graffenried,2761
+Lee,,Governor,,,George Wallace,3659
+Limestone,,Governor,,,Ryan de Graffenried,3887
+Limestone,,Governor,,,George Wallace,3238
+Lowndes,,Governor,,,Ryan de Graffenried,422
+Lowndes,,Governor,,,George Wallace,1415
+Macon,,Governor,,,Ryan de Graffenried,2361
+Macon,,Governor,,,George Wallace,1555
+Madison,,Governor,,,Ryan de Graffenried,11844
+Madison,,Governor,,,George Wallace,6357
+Marengo,,Governor,,,Ryan de Graffenried,740
+Marengo,,Governor,,,George Wallace,2740
+Marion,,Governor,,,Ryan de Graffenried,2259
+Marion,,Governor,,,George Wallace,5569
+Marshall,,Governor,,,Ryan de Graffenried,6780
+Marshall,,Governor,,,George Wallace,6310
+Mobile,,Governor,,,Ryan de Graffenried,23622
+Mobile,,Governor,,,George Wallace,24919
+Monroe,,Governor,,,Ryan de Graffenried,892
+Monroe,,Governor,,,George Wallace,2780
+Montgomery,,Governor,,,Ryan de Graffenried,8080
+Montgomery,,Governor,,,George Wallace,16000
+Morgan,,Governor,,,Ryan de Graffenried,8705
+Morgan,,Governor,,,George Wallace,5292
+Perry,,Governor,,,Ryan de Graffenried,620
+Perry,,Governor,,,George Wallace,1951
+Pickens,,Governor,,,Ryan de Graffenried,1484
+Pickens,,Governor,,,George Wallace,3042
+Pike,,Governor,,,Ryan de Graffenried,1234
+Pike,,Governor,,,George Wallace,4473
+Randolph,,Governor,,,Ryan de Graffenried,2261
+Randolph,,Governor,,,George Wallace,4426
+Russell,,Governor,,,Ryan de Graffenried,1483
+Russell,,Governor,,,George Wallace,3524
+Shelby,,Governor,,,Ryan de Graffenried,2564
+Shelby,,Governor,,,George Wallace,3446
+St. Clair,,Governor,,,Ryan de Graffenried,2558
+St. Clair,,Governor,,,George Wallace,4011
+Sumter,,Governor,,,Ryan de Graffenried,825
+Sumter,,Governor,,,George Wallace,1243
+Talladega,,Governor,,,Ryan de Graffenried,5325
+Talladega,,Governor,,,George Wallace,6797
+Tallapoosa,,Governor,,,Ryan de Graffenried,3911
+Tallapoosa,,Governor,,,George Wallace,5364
+Tuscaloosa,,Governor,,,Ryan de Graffenried,11625
+Tuscaloosa,,Governor,,,George Wallace,6282
+Walker,,Governor,,,Ryan de Graffenried,5867
+Walker,,Governor,,,George Wallace,8252
+Washington,,Governor,,,Ryan de Graffenried,1170
+Washington,,Governor,,,George Wallace,3427
+Wilcox,,Governor,,,Ryan de Graffenried,479
+Wilcox,,Governor,,,George Wallace,1412
+Winston,,Governor,,,Ryan de Graffenried,718
+Winston,,Governor,,,George Wallace,961
+Calculated,,Governor,,,Ryan de Graffenried,269122
+Calculated,,Governor,,,George Wallace,340730
+Reported,,Governor,,,Ryan de Graffenried,269122
+Reported,,Governor,,,George Wallace,340730

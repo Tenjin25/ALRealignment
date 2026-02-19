@@ -1,0 +1,281 @@
+county,precinct,office,district,party,candidate,votes
+Autauga,,U.S. Senate,,,United States Senator,601
+Autauga,,Secretary of State,,,Secretary of State,360
+Autauga,,State Treasurer,,,State Treasurer,590
+Autauga,,State Auditor,,,State Auditor,491
+Baldwin,,U.S. Senate,,,United States Senator,767
+Baldwin,,Secretary of State,,,Secretary of State,590
+Baldwin,,State Treasurer,,,State Treasurer,666
+Baldwin,,State Auditor,,,State Auditor,645
+Barbour,,U.S. Senate,,,United States Senator,459
+Barbour,,Secretary of State,,,Secretary of State,481
+Barbour,,State Treasurer,,,State Treasurer,569
+Barbour,,State Auditor,,,State Auditor,460
+Bibb,,U.S. Senate,,,United States Senator,261
+Bibb,,Secretary of State,,,Secretary of State,348
+Bibb,,State Treasurer,,,State Treasurer,475
+Bibb,,State Auditor,,,State Auditor,259
+Blount,,U.S. Senate,,,United States Senator,99
+Blount,,Secretary of State,,,Secretary of State,127
+Blount,,State Treasurer,,,State Treasurer,270
+Blount,,State Auditor,,,State Auditor,168
+Bullock,,U.S. Senate,,,United States Senator,1251
+Bullock,,Secretary of State,,,Secretary of State,1242
+Bullock,,State Treasurer,,,State Treasurer,1256
+Bullock,,State Auditor,,,State Auditor,1111
+Butler,,U.S. Senate,,,United States Senator,2083
+Butler,,Secretary of State,,,Secretary of State,1375
+Butler,,State Treasurer,,,State Treasurer,2071
+Butler,,State Auditor,,,State Auditor,944
+Calhoun,,U.S. Senate,,,United States Senator,543
+Calhoun,,Secretary of State,,,Secretary of State,1031
+Calhoun,,State Treasurer,,,State Treasurer,1215
+Calhoun,,State Auditor,,,State Auditor,986
+Chambers,,U.S. Senate,,,United States Senator,681
+Chambers,,Secretary of State,,,Secretary of State,796
+Chambers,,State Treasurer,,,State Treasurer,738
+Chambers,,State Auditor,,,State Auditor,861
+Cherokee,,U.S. Senate,,,United States Senator,1120
+Cherokee,,Secretary of State,,,Secretary of State,1318
+Cherokee,,State Treasurer,,,State Treasurer,1517
+Cherokee,,State Auditor,,,State Auditor,1292
+Chilton,,U.S. Senate,,,United States Senator,351
+Chilton,,Secretary of State,,,Secretary of State,346
+Chilton,,State Treasurer,,,State Treasurer,549
+Chilton,,State Auditor,,,State Auditor,234
+Choctaw,,U.S. Senate,,,United States Senator,1366
+Choctaw,,Secretary of State,,,Secretary of State,1933
+Choctaw,,State Treasurer,,,State Treasurer,2234
+Choctaw,,State Auditor,,,State Auditor,1188
+Clarke,,U.S. Senate,,,United States Senator,1747
+Clarke,,Secretary of State,,,Secretary of State,1029
+Clarke,,State Treasurer,,,State Treasurer,1226
+Clarke,,State Auditor,,,State Auditor,985
+Clay,,U.S. Senate,,,United States Senator,605
+Clay,,Secretary of State,,,Secretary of State,761
+Clay,,State Treasurer,,,State Treasurer,935
+Clay,,State Auditor,,,State Auditor,702
+Cleburne,,U.S. Senate,,,United States Senator,737
+Cleburne,,Secretary of State,,,Secretary of State,949
+Cleburne,,State Treasurer,,,State Treasurer,1093
+Cleburne,,State Auditor,,,State Auditor,851
+Coffee,,U.S. Senate,,,United States Senator,590
+Coffee,,Secretary of State,,,Secretary of State,442
+Coffee,,State Treasurer,,,State Treasurer,631
+Coffee,,State Auditor,,,State Auditor,346
+Colbert,,U.S. Senate,,,United States Senator,1005
+Colbert,,Secretary of State,,,Secretary of State,1290
+Colbert,,State Treasurer,,,State Treasurer,1944
+Colbert,,State Auditor,,,State Auditor,947
+Conecuh,,U.S. Senate,,,United States Senator,366
+Conecuh,,Secretary of State,,,Secretary of State,271
+Conecuh,,State Treasurer,,,State Treasurer,401
+Conecuh,,State Auditor,,,State Auditor,220
+Coosa,,U.S. Senate,,,United States Senator,489
+Coosa,,Secretary of State,,,Secretary of State,569
+Coosa,,State Treasurer,,,State Treasurer,716
+Coosa,,State Auditor,,,State Auditor,534
+Covington,,U.S. Senate,,,United States Senator,1369
+Covington,,Secretary of State,,,Secretary of State,909
+Covington,,State Treasurer,,,State Treasurer,1516
+Covington,,State Auditor,,,State Auditor,993
+Crenshaw,,U.S. Senate,,,United States Senator,1030
+Crenshaw,,Secretary of State,,,Secretary of State,597
+Crenshaw,,State Treasurer,,,State Treasurer,1208
+Crenshaw,,State Auditor,,,State Auditor,663
+Cullman,,U.S. Senate,,,United States Senator,615
+Cullman,,Secretary of State,,,Secretary of State,515
+Cullman,,State Treasurer,,,State Treasurer,1147
+Cullman,,State Auditor,,,State Auditor,836
+Dale,,U.S. Senate,,,United States Senator,436
+Dale,,Secretary of State,,,Secretary of State,363
+Dale,,State Treasurer,,,State Treasurer,413
+Dale,,State Auditor,,,State Auditor,427
+Dallas,,U.S. Senate,,,United States Senator,4203
+Dallas,,Secretary of State,,,Secretary of State,5535
+Dallas,,State Treasurer,,,State Treasurer,6184
+Dallas,,State Auditor,,,State Auditor,4840
+DeKalb,,U.S. Senate,,,United States Senator,1161
+DeKalb,,Secretary of State,,,Secretary of State,1332
+DeKalb,,State Treasurer,,,State Treasurer,2267
+DeKalb,,State Auditor,,,State Auditor,1135
+Elmore,,U.S. Senate,,,United States Senator,799
+Elmore,,Secretary of State,,,Secretary of State,500
+Elmore,,State Treasurer,,,State Treasurer,709
+Elmore,,State Auditor,,,State Auditor,544
+Escambia,,U.S. Senate,,,United States Senator,389
+Escambia,,Secretary of State,,,Secretary of State,290
+Escambia,,State Treasurer,,,State Treasurer,350
+Escambia,,State Auditor,,,State Auditor,279
+Etowah,,U.S. Senate,,,United States Senator,974
+Etowah,,Secretary of State,,,Secretary of State,1345
+Etowah,,State Treasurer,,,State Treasurer,1625
+Etowah,,State Auditor,,,State Auditor,1142
+Fayette,,U.S. Senate,,,United States Senator,1255
+Fayette,,Secretary of State,,,Secretary of State,1410
+Fayette,,State Treasurer,,,State Treasurer,2299
+Fayette,,State Auditor,,,State Auditor,1521
+Franklin,,U.S. Senate,,,United States Senator,917
+Franklin,,Secretary of State,,,Secretary of State,1219
+Franklin,,State Treasurer,,,State Treasurer,1860
+Franklin,,State Auditor,,,State Auditor,1262
+Geneva,,U.S. Senate,,,United States Senator,125
+Geneva,,Secretary of State,,,Secretary of State,117
+Geneva,,State Treasurer,,,State Treasurer,111
+Geneva,,State Auditor,,,State Auditor,106
+Greene,,U.S. Senate,,,United States Senator,662
+Greene,,Secretary of State,,,Secretary of State,1844
+Greene,,State Treasurer,,,State Treasurer,1554
+Greene,,State Auditor,,,State Auditor,1025
+Hale,,U.S. Senate,,,United States Senator,2321
+Hale,,Secretary of State,,,Secretary of State,2614
+Hale,,State Treasurer,,,State Treasurer,2761
+Hale,,State Auditor,,,State Auditor,882
+Henry,,U.S. Senate,,,United States Senator,450
+Henry,,Secretary of State,,,Secretary of State,442
+Henry,,State Treasurer,,,State Treasurer,287
+Henry,,State Auditor,,,State Auditor,401
+Houston,,U.S. Senate,,,United States Senator,406
+Houston,,Secretary of State,,,Secretary of State,360
+Houston,,State Treasurer,,,State Treasurer,440
+Houston,,State Auditor,,,State Auditor,441
+Jackson,,U.S. Senate,,,United States Senator,291
+Jackson,,Secretary of State,,,Secretary of State,229
+Jackson,,State Treasurer,,,State Treasurer,546
+Jackson,,State Auditor,,,State Auditor,273
+Jefferson,,U.S. Senate,,,United States Senator,15366
+Jefferson,,Secretary of State,,,Secretary of State,26275
+Jefferson,,State Treasurer,,,State Treasurer,28691
+Jefferson,,State Auditor,,,State Auditor,15817
+Lamar,,U.S. Senate,,,United States Senator,471
+Lamar,,Secretary of State,,,Secretary of State,559
+Lamar,,State Treasurer,,,State Treasurer,736
+Lamar,,State Auditor,,,State Auditor,703
+Lauderdale,,U.S. Senate,,,United States Senator,1536
+Lauderdale,,Secretary of State,,,Secretary of State,2137
+Lauderdale,,State Treasurer,,,State Treasurer,3709
+Lauderdale,,State Auditor,,,State Auditor,2045
+Lawrence,,U.S. Senate,,,United States Senator,1479
+Lawrence,,Secretary of State,,,Secretary of State,2192
+Lawrence,,State Treasurer,,,State Treasurer,4144
+Lawrence,,State Auditor,,,State Auditor,2057
+Lee,,U.S. Senate,,,United States Senator,618
+Lee,,Secretary of State,,,Secretary of State,1384
+Lee,,State Treasurer,,,State Treasurer,1240
+Lee,,State Auditor,,,State Auditor,974
+Limestone,,U.S. Senate,,,United States Senator,185
+Limestone,,Secretary of State,,,Secretary of State,367
+Limestone,,State Treasurer,,,State Treasurer,1071
+Limestone,,State Auditor,,,State Auditor,665
+Lowndes,,U.S. Senate,,,United States Senator,2147
+Lowndes,,Secretary of State,,,Secretary of State,2272
+Lowndes,,State Treasurer,,,State Treasurer,2015
+Lowndes,,State Auditor,,,State Auditor,1033
+Macon,,U.S. Senate,,,United States Senator,2039
+Macon,,Secretary of State,,,Secretary of State,1893
+Macon,,State Treasurer,,,State Treasurer,1821
+Macon,,State Auditor,,,State Auditor,1380
+Madison,,U.S. Senate,,,United States Senator,2744
+Madison,,Secretary of State,,,Secretary of State,3759
+Madison,,State Treasurer,,,State Treasurer,5774
+Madison,,State Auditor,,,State Auditor,2954
+Marengo,,U.S. Senate,,,United States Senator,1395
+Marengo,,Secretary of State,,,Secretary of State,1722
+Marengo,,State Treasurer,,,State Treasurer,2225
+Marengo,,State Auditor,,,State Auditor,1178
+Marion,,U.S. Senate,,,United States Senator,1227
+Marion,,Secretary of State,,,Secretary of State,1971
+Marion,,State Treasurer,,,State Treasurer,2699
+Marion,,State Auditor,,,State Auditor,2033
+Marshall,,U.S. Senate,,,United States Senator,645
+Marshall,,Secretary of State,,,Secretary of State,624
+Marshall,,State Treasurer,,,State Treasurer,998
+Marshall,,State Auditor,,,State Auditor,642
+Mobile,,U.S. Senate,,,United States Senator,6376
+Mobile,,Secretary of State,,,Secretary of State,5528
+Mobile,,State Treasurer,,,State Treasurer,5576
+Mobile,,State Auditor,,,State Auditor,4014
+Monroe,,U.S. Senate,,,United States Senator,942
+Monroe,,Secretary of State,,,Secretary of State,711
+Monroe,,State Treasurer,,,State Treasurer,909
+Monroe,,State Auditor,,,State Auditor,706
+Montgomery,,U.S. Senate,,,United States Senator,8785
+Montgomery,,Secretary of State,,,Secretary of State,6738
+Montgomery,,State Treasurer,,,State Treasurer,7909
+Montgomery,,State Auditor,,,State Auditor,4966
+Morgan,,U.S. Senate,,,United States Senator,790
+Morgan,,Secretary of State,,,Secretary of State,1075
+Morgan,,State Treasurer,,,State Treasurer,2640
+Morgan,,State Auditor,,,State Auditor,1295
+Perry,,U.S. Senate,,,United States Senator,994
+Perry,,Secretary of State,,,Secretary of State,2055
+Perry,,State Treasurer,,,State Treasurer,2355
+Perry,,State Auditor,,,State Auditor,684
+Pickens,,U.S. Senate,,,United States Senator,962
+Pickens,,Secretary of State,,,Secretary of State,1406
+Pickens,,State Treasurer,,,State Treasurer,1516
+Pickens,,State Auditor,,,State Auditor,1190
+Pike,,U.S. Senate,,,United States Senator,409
+Pike,,Secretary of State,,,Secretary of State,346
+Pike,,State Treasurer,,,State Treasurer,429
+Pike,,State Auditor,,,State Auditor,233
+Randolph,,U.S. Senate,,,United States Senator,643
+Randolph,,Secretary of State,,,Secretary of State,818
+Randolph,,State Treasurer,,,State Treasurer,1089
+Randolph,,State Auditor,,,State Auditor,659
+Russell,,U.S. Senate,,,United States Senator,248
+Russell,,Secretary of State,,,Secretary of State,187
+Russell,,State Treasurer,,,State Treasurer,253
+Russell,,State Auditor,,,State Auditor,282
+St. Clair,,U.S. Senate,,,United States Senator,229
+St. Clair,,Secretary of State,,,Secretary of State,247
+St. Clair,,State Treasurer,,,State Treasurer,367
+St. Clair,,State Auditor,,,State Auditor,297
+Shelby,,U.S. Senate,,,United States Senator,259
+Shelby,,Secretary of State,,,Secretary of State,464
+Shelby,,State Treasurer,,,State Treasurer,720
+Shelby,,State Auditor,,,State Auditor,411
+Sumter,,U.S. Senate,,,United States Senator,873
+Sumter,,Secretary of State,,,Secretary of State,2376
+Sumter,,State Treasurer,,,State Treasurer,2573
+Sumter,,State Auditor,,,State Auditor,1450
+Talladega,,U.S. Senate,,,United States Senator,525
+Talladega,,Secretary of State,,,Secretary of State,819
+Talladega,,State Treasurer,,,State Treasurer,1108
+Talladega,,State Auditor,,,State Auditor,702
+Tallapoosa,,U.S. Senate,,,United States Senator,545
+Tallapoosa,,Secretary of State,,,Secretary of State,704
+Tallapoosa,,State Treasurer,,,State Treasurer,951
+Tallapoosa,,State Auditor,,,State Auditor,606
+Tuscaloosa,,U.S. Senate,,,United States Senator,2917
+Tuscaloosa,,Secretary of State,,,Secretary of State,3909
+Tuscaloosa,,State Treasurer,,,State Treasurer,5560
+Tuscaloosa,,State Auditor,,,State Auditor,2966
+Walker,,U.S. Senate,,,United States Senator,2482
+Walker,,Secretary of State,,,Secretary of State,2787
+Walker,,State Treasurer,,,State Treasurer,4576
+Walker,,State Auditor,,,State Auditor,3065
+Washington,,U.S. Senate,,,United States Senator,2290
+Washington,,Secretary of State,,,Secretary of State,1925
+Washington,,State Treasurer,,,State Treasurer,1819
+Washington,,State Auditor,,,State Auditor,1700
+Wilcox,,U.S. Senate,,,United States Senator,1782
+Wilcox,,Secretary of State,,,Secretary of State,1690
+Wilcox,,State Treasurer,,,State Treasurer,1814
+Wilcox,,State Auditor,,,State Auditor,999
+Winston,,U.S. Senate,,,United States Senator,187
+Winston,,Secretary of State,,,Secretary of State,194
+Winston,,State Treasurer,,,State Treasurer,367
+Winston,,State Auditor,,,State Auditor,240
+Totals,,U.S. Senate,,,United States Senator,94614
+Totals,,Secretary of State,,,Secretary of State,114013
+Totals,,State Treasurer,,,State Treasurer,142027
+Totals,,State Auditor,,,State Auditor,87940
+Percentage,,U.S. Senate,,,United States Senator,0.34887682709184503
+Percentage,,Secretary of State,,,Secretary of State,0.4512899880461372
+Percentage,,State Treasurer,,,State Treasurer,0.5496337116829139
+Percentage,,State Auditor,,,State Auditor,0.35654194050606736
+Vote Totals,,U.S. Senate,,,United States Senator,271196
+Vote Totals,,Secretary of State,,,Secretary of State,252638
+Vote Totals,,State Treasurer,,,State Treasurer,258403
+Vote Totals,,State Auditor,,,State Auditor,246647

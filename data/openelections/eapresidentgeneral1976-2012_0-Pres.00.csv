@@ -1,0 +1,621 @@
+county,precinct,office,district,party,candidate,votes
+Autauga,,Gore (D),,DEM,Gore,4942
+Autauga,,Browne (L),,LIB,Browne,51
+Autauga,,Bush (R),,REP,Bush,11993
+Autauga,,Buchanan (I),,IND,Buchanan,43
+Autauga,,Hagelin (I),,IND,Hagelin,5
+Autauga,,Nader (I),,IND,Nader,160
+Autauga,,Phillips (I),,IND,Phillips,9
+Autauga,,Write-In,,NON,Write-ins,5
+Autauga,,Total,,,Total,17208
+Baldwin,,Gore (D),,DEM,Gore,13997
+Baldwin,,Browne (L),,LIB,Browne,226
+Baldwin,,Bush (R),,REP,Bush,40872
+Baldwin,,Buchanan (I),,IND,Buchanan,287
+Baldwin,,Hagelin (I),,IND,Hagelin,14
+Baldwin,,Nader (I),,IND,Nader,1033
+Baldwin,,Phillips (I),,IND,Phillips,23
+Baldwin,,Write-In,,NON,Write-ins,28
+Baldwin,,Total,,,Total,56480
+Barbour,,Gore (D),,DEM,Gore,2197
+Barbour,,Browne (L),,LIB,Browne,18
+Barbour,,Bush (R),,REP,Bush,1860
+Barbour,,Buchanan (I),,IND,Buchanan,14
+Barbour,,Hagelin (I),,IND,Hagelin,2
+Barbour,,Nader (I),,IND,Nader,20
+Barbour,,Phillips (I),,IND,Phillips,4
+Barbour,,Write-In,,NON,Write-ins,1
+Barbour,,Total,,,Total,4116
+Bibb,,Gore (D),,DEM,Gore,2710
+Bibb,,Browne (L),,LIB,Browne,20
+Bibb,,Bush (R),,REP,Bush,4273
+Bibb,,Buchanan (I),,IND,Buchanan,36
+Bibb,,Hagelin (I),,IND,Hagelin,1
+Bibb,,Nader (I),,IND,Nader,52
+Bibb,,Phillips (I),,IND,Phillips,9
+Bibb,,Write-In,,NON,Write-ins,0
+Bibb,,Total,,,Total,7101
+Blount,,Gore (D),,DEM,Gore,4977
+Blount,,Browne (L),,LIB,Browne,51
+Blount,,Bush (R),,REP,Bush,12667
+Blount,,Buchanan (I),,IND,Buchanan,104
+Blount,,Hagelin (I),,IND,Hagelin,5
+Blount,,Nader (I),,IND,Nader,154
+Blount,,Phillips (I),,IND,Phillips,10
+Blount,,Write-In,,NON,Write-ins,5
+Blount,,Total,,,Total,17973
+Bullock,,Gore (D),,DEM,Gore,3395
+Bullock,,Browne (L),,LIB,Browne,34
+Bullock,,Bush (R),,REP,Bush,1433
+Bullock,,Buchanan (I),,IND,Buchanan,8
+Bullock,,Hagelin (I),,IND,Hagelin,4
+Bullock,,Nader (I),,IND,Nader,24
+Bullock,,Phillips (I),,IND,Phillips,5
+Bullock,,Write-In,,NON,Write-ins,1
+Bullock,,Total,,,Total,4904
+Butler,,Gore (D),,DEM,Gore,3606
+Butler,,Browne (L),,LIB,Browne,19
+Butler,,Bush (R),,REP,Bush,4127
+Butler,,Buchanan (I),,IND,Buchanan,9
+Butler,,Hagelin (I),,IND,Hagelin,0
+Butler,,Nader (I),,IND,Nader,36
+Butler,,Phillips (I),,IND,Phillips,3
+Butler,,Write-In,,NON,Write-ins,3
+Butler,,Total,,,Total,7803
+Calhoun,,Gore (D),,DEM,Gore,15781
+Calhoun,,Browne (L),,LIB,Browne,149
+Calhoun,,Bush (R),,REP,Bush,22306
+Calhoun,,Buchanan (I),,IND,Buchanan,153
+Calhoun,,Hagelin (I),,IND,Hagelin,13
+Calhoun,,Nader (I),,IND,Nader,481
+Calhoun,,Phillips (I),,IND,Phillips,18
+Calhoun,,Write-In,,NON,Write-ins,8
+Calhoun,,Total,,,Total,38909
+Chambers,,Gore (D),,DEM,Gore,5616
+Chambers,,Browne (L),,LIB,Browne,38
+Chambers,,Bush (R),,REP,Bush,6037
+Chambers,,Buchanan (I),,IND,Buchanan,35
+Chambers,,Hagelin (I),,IND,Hagelin,5
+Chambers,,Nader (I),,IND,Nader,95
+Chambers,,Phillips (I),,IND,Phillips,5
+Chambers,,Write-In,,NON,Write-ins,3
+Chambers,,Total,,,Total,11834
+Cherokee,,Gore (D),,DEM,Gore,3497
+Cherokee,,Browne (L),,LIB,Browne,27
+Cherokee,,Bush (R),,REP,Bush,4154
+Cherokee,,Buchanan (I),,IND,Buchanan,58
+Cherokee,,Hagelin (I),,IND,Hagelin,5
+Cherokee,,Nader (I),,IND,Nader,77
+Cherokee,,Phillips (I),,IND,Phillips,3
+Cherokee,,Write-In,,NON,Write-ins,2
+Cherokee,,Total,,,Total,7823
+Chilton,,Gore (D),,DEM,Gore,4806
+Chilton,,Browne (L),,LIB,Browne,53
+Chilton,,Bush (R),,REP,Bush,10066
+Chilton,,Buchanan (I),,IND,Buchanan,70
+Chilton,,Hagelin (I),,IND,Hagelin,1
+Chilton,,Nader (I),,IND,Nader,92
+Chilton,,Phillips (I),,IND,Phillips,1
+Chilton,,Write-In,,NON,Write-ins,3
+Chilton,,Total,,,Total,15092
+Choctaw,,Gore (D),,DEM,Gore,3707
+Choctaw,,Browne (L),,LIB,Browne,8
+Choctaw,,Bush (R),,REP,Bush,3600
+Choctaw,,Buchanan (I),,IND,Buchanan,17
+Choctaw,,Hagelin (I),,IND,Hagelin,2
+Choctaw,,Nader (I),,IND,Nader,33
+Choctaw,,Phillips (I),,IND,Phillips,3
+Choctaw,,Write-In,,NON,Write-ins,4
+Choctaw,,Total,,,Total,7374
+Clarke,,Gore (D),,DEM,Gore,4679
+Clarke,,Browne (L),,LIB,Browne,16
+Clarke,,Bush (R),,REP,Bush,5988
+Clarke,,Buchanan (I),,IND,Buchanan,28
+Clarke,,Hagelin (I),,IND,Hagelin,2
+Clarke,,Nader (I),,IND,Nader,33
+Clarke,,Phillips (I),,IND,Phillips,4
+Clarke,,Write-In,,NON,Write-ins,2
+Clarke,,Total,,,Total,10752
+Clay,,Gore (D),,DEM,Gore,2045
+Clay,,Browne (L),,LIB,Browne,32
+Clay,,Bush (R),,REP,Bush,3719
+Clay,,Buchanan (I),,IND,Buchanan,30
+Clay,,Hagelin (I),,IND,Hagelin,1
+Clay,,Nader (I),,IND,Nader,52
+Clay,,Phillips (I),,IND,Phillips,4
+Clay,,Write-In,,NON,Write-ins,0
+Clay,,Total,,,Total,5883
+Cleburne,,Gore (D),,DEM,Gore,1664
+Cleburne,,Browne (L),,LIB,Browne,21
+Cleburne,,Bush (R),,REP,Bush,3333
+Cleburne,,Buchanan (I),,IND,Buchanan,32
+Cleburne,,Hagelin (I),,IND,Hagelin,0
+Cleburne,,Nader (I),,IND,Nader,39
+Cleburne,,Phillips (I),,IND,Phillips,0
+Cleburne,,Write-In,,NON,Write-ins,3
+Cleburne,,Total,,,Total,5092
+Coffee,,Gore (D),,DEM,Gore,5220
+Coffee,,Browne (L),,LIB,Browne,40
+Coffee,,Bush (R),,REP,Bush,9938
+Coffee,,Buchanan (I),,IND,Buchanan,61
+Coffee,,Hagelin (I),,IND,Hagelin,1
+Coffee,,Nader (I),,IND,Nader,155
+Coffee,,Phillips (I),,IND,Phillips,17
+Coffee,,Write-In,,NON,Write-ins,2
+Coffee,,Total,,,Total,15434
+Colbert,,Gore (D),,DEM,Gore,10543
+Colbert,,Browne (L),,LIB,Browne,38
+Colbert,,Bush (R),,REP,Bush,10518
+Colbert,,Buchanan (I),,IND,Buchanan,201
+Colbert,,Hagelin (I),,IND,Hagelin,4
+Colbert,,Nader (I),,IND,Nader,208
+Colbert,,Phillips (I),,IND,Phillips,9
+Colbert,,Write-In,,NON,Write-ins,11
+Colbert,,Total,,,Total,21532
+Conecuh,,Gore (D),,DEM,Gore,2783
+Conecuh,,Browne (L),,LIB,Browne,6
+Conecuh,,Bush (R),,REP,Bush,2699
+Conecuh,,Buchanan (I),,IND,Buchanan,21
+Conecuh,,Hagelin (I),,IND,Hagelin,3
+Conecuh,,Nader (I),,IND,Nader,35
+Conecuh,,Phillips (I),,IND,Phillips,2
+Conecuh,,Write-In,,NON,Write-ins,2
+Conecuh,,Total,,,Total,5551
+Coosa,,Gore (D),,DEM,Gore,2104
+Coosa,,Browne (L),,LIB,Browne,23
+Coosa,,Bush (R),,REP,Bush,2382
+Coosa,,Buchanan (I),,IND,Buchanan,13
+Coosa,,Hagelin (I),,IND,Hagelin,4
+Coosa,,Nader (I),,IND,Nader,34
+Coosa,,Phillips (I),,IND,Phillips,6
+Coosa,,Write-In,,NON,Write-ins,1
+Coosa,,Total,,,Total,4567
+Covington,,Gore (D),,DEM,Gore,4440
+Covington,,Browne (L),,LIB,Browne,32
+Covington,,Bush (R),,REP,Bush,8961
+Covington,,Buchanan (I),,IND,Buchanan,42
+Covington,,Hagelin (I),,IND,Hagelin,3
+Covington,,Nader (I),,IND,Nader,123
+Covington,,Phillips (I),,IND,Phillips,9
+Covington,,Write-In,,NON,Write-ins,3
+Covington,,Total,,,Total,13613
+Crenshaw,,Gore (D),,DEM,Gore,1934
+Crenshaw,,Browne (L),,LIB,Browne,9
+Crenshaw,,Bush (R),,REP,Bush,2793
+Crenshaw,,Buchanan (I),,IND,Buchanan,16
+Crenshaw,,Hagelin (I),,IND,Hagelin,0
+Crenshaw,,Nader (I),,IND,Nader,40
+Crenshaw,,Phillips (I),,IND,Phillips,2
+Crenshaw,,Write-In,,NON,Write-ins,1
+Crenshaw,,Total,,,Total,4795
+Cullman,,Gore (D),,DEM,Gore,9758
+Cullman,,Browne (L),,LIB,Browne,59
+Cullman,,Bush (R),,REP,Bush,19157
+Cullman,,Buchanan (I),,IND,Buchanan,216
+Cullman,,Hagelin (I),,IND,Hagelin,5
+Cullman,,Nader (I),,IND,Nader,282
+Cullman,,Phillips (I),,IND,Phillips,31
+Cullman,,Write-In,,NON,Write-ins,17
+Cullman,,Total,,,Total,29525
+Dale,,Gore (D),,DEM,Gore,4906
+Dale,,Browne (L),,LIB,Browne,27
+Dale,,Bush (R),,REP,Bush,10593
+Dale,,Buchanan (I),,IND,Buchanan,56
+Dale,,Hagelin (I),,IND,Hagelin,4
+Dale,,Nader (I),,IND,Nader,188
+Dale,,Phillips (I),,IND,Phillips,26
+Dale,,Write-In,,NON,Write-ins,6
+Dale,,Total,,,Total,15806
+Dallas,,Gore (D),,DEM,Gore,10967
+Dallas,,Browne (L),,LIB,Browne,38
+Dallas,,Bush (R),,REP,Bush,7360
+Dallas,,Buchanan (I),,IND,Buchanan,19
+Dallas,,Hagelin (I),,IND,Hagelin,4
+Dallas,,Nader (I),,IND,Nader,63
+Dallas,,Phillips (I),,IND,Phillips,10
+Dallas,,Write-In,,NON,Write-ins,3
+Dallas,,Total,,,Total,18464
+Dekalb,,Gore (D),,DEM,Gore,7056
+Dekalb,,Browne (L),,LIB,Browne,124
+Dekalb,,Bush (R),,REP,Bush,12827
+Dekalb,,Buchanan (I),,IND,Buchanan,88
+Dekalb,,Hagelin (I),,IND,Hagelin,2
+Dekalb,,Nader (I),,IND,Nader,175
+Dekalb,,Phillips (I),,IND,Phillips,9
+Dekalb,,Write-In,,NON,Write-ins,4
+Dekalb,,Total,,,Total,20285
+Elmore,,Gore (D),,DEM,Gore,6652
+Elmore,,Browne (L),,LIB,Browne,87
+Elmore,,Bush (R),,REP,Bush,16777
+Elmore,,Buchanan (I),,IND,Buchanan,53
+Elmore,,Hagelin (I),,IND,Hagelin,8
+Elmore,,Nader (I),,IND,Nader,212
+Elmore,,Phillips (I),,IND,Phillips,4
+Elmore,,Write-In,,NON,Write-ins,11
+Elmore,,Total,,,Total,23804
+Escambia,,Gore (D),,DEM,Gore,4523
+Escambia,,Browne (L),,LIB,Browne,13
+Escambia,,Bush (R),,REP,Bush,6975
+Escambia,,Buchanan (I),,IND,Buchanan,57
+Escambia,,Hagelin (I),,IND,Hagelin,3
+Escambia,,Nader (I),,IND,Nader,78
+Escambia,,Phillips (I),,IND,Phillips,7
+Escambia,,Write-In,,NON,Write-ins,4
+Escambia,,Total,,,Total,11660
+Etowah,,Gore (D),,DEM,Gore,17433
+Etowah,,Browne (L),,LIB,Browne,117
+Etowah,,Bush (R),,REP,Bush,21087
+Etowah,,Buchanan (I),,IND,Buchanan,239
+Etowah,,Hagelin (I),,IND,Hagelin,6
+Etowah,,Nader (I),,IND,Nader,435
+Etowah,,Phillips (I),,IND,Phillips,17
+Etowah,,Write-In,,NON,Write-ins,14
+Etowah,,Total,,,Total,39348
+Fayette,,Gore (D),,DEM,Gore,3064
+Fayette,,Browne (L),,LIB,Browne,21
+Fayette,,Bush (R),,REP,Bush,4582
+Fayette,,Buchanan (I),,IND,Buchanan,68
+Fayette,,Hagelin (I),,IND,Hagelin,0
+Fayette,,Nader (I),,IND,Nader,60
+Fayette,,Phillips (I),,IND,Phillips,8
+Fayette,,Write-In,,NON,Write-ins,5
+Fayette,,Total,,,Total,7808
+Franklin,,Gore (D),,DEM,Gore,4793
+Franklin,,Browne (L),,LIB,Browne,17
+Franklin,,Bush (R),,REP,Bush,6119
+Franklin,,Buchanan (I),,IND,Buchanan,85
+Franklin,,Hagelin (I),,IND,Hagelin,5
+Franklin,,Nader (I),,IND,Nader,72
+Franklin,,Phillips (I),,IND,Phillips,5
+Franklin,,Write-In,,NON,Write-ins,7
+Franklin,,Total,,,Total,11103
+Geneva,,Gore (D),,DEM,Gore,2769
+Geneva,,Browne (L),,LIB,Browne,38
+Geneva,,Bush (R),,REP,Bush,6588
+Geneva,,Buchanan (I),,IND,Buchanan,46
+Geneva,,Hagelin (I),,IND,Hagelin,2
+Geneva,,Nader (I),,IND,Nader,97
+Geneva,,Phillips (I),,IND,Phillips,16
+Geneva,,Write-In,,NON,Write-ins,3
+Geneva,,Total,,,Total,9559
+Greene,,Gore (D),,DEM,Gore,3504
+Greene,,Browne (L),,LIB,Browne,8
+Greene,,Bush (R),,REP,Bush,850
+Greene,,Buchanan (I),,IND,Buchanan,3
+Greene,,Hagelin (I),,IND,Hagelin,2
+Greene,,Nader (I),,IND,Nader,24
+Greene,,Phillips (I),,IND,Phillips,4
+Greene,,Write-In,,NON,Write-ins,1
+Greene,,Total,,,Total,4396
+Hale,,Gore (D),,DEM,Gore,4652
+Hale,,Browne (L),,LIB,Browne,17
+Hale,,Bush (R),,REP,Bush,2984
+Hale,,Buchanan (I),,IND,Buchanan,25
+Hale,,Hagelin (I),,IND,Hagelin,5
+Hale,,Nader (I),,IND,Nader,43
+Hale,,Phillips (I),,IND,Phillips,4
+Hale,,Write-In,,NON,Write-ins,1
+Hale,,Total,,,Total,7731
+Henry,,Gore (D),,DEM,Gore,2782
+Henry,,Browne (L),,LIB,Browne,18
+Henry,,Bush (R),,REP,Bush,4054
+Henry,,Buchanan (I),,IND,Buchanan,18
+Henry,,Hagelin (I),,IND,Hagelin,4
+Henry,,Nader (I),,IND,Nader,48
+Henry,,Phillips (I),,IND,Phillips,4
+Henry,,Write-In,,NON,Write-ins,4
+Henry,,Total,,,Total,6932
+Houston,,Gore (D),,DEM,Gore,9412
+Houston,,Browne (L),,LIB,Browne,88
+Houston,,Bush (R),,REP,Bush,22150
+Houston,,Buchanan (I),,IND,Buchanan,121
+Houston,,Hagelin (I),,IND,Hagelin,7
+Houston,,Nader (I),,IND,Nader,257
+Houston,,Phillips (I),,IND,Phillips,9
+Houston,,Write-In,,NON,Write-ins,13
+Houston,,Total,,,Total,32057
+Jackson,,Gore (D),,DEM,Gore,9066
+Jackson,,Browne (L),,LIB,Browne,48
+Jackson,,Bush (R),,REP,Bush,8475
+Jackson,,Buchanan (I),,IND,Buchanan,118
+Jackson,,Hagelin (I),,IND,Hagelin,6
+Jackson,,Nader (I),,IND,Nader,184
+Jackson,,Phillips (I),,IND,Phillips,5
+Jackson,,Write-In,,NON,Write-ins,4
+Jackson,,Total,,,Total,17906
+Jefferson,,Gore (D),,DEM,Gore,129889
+Jefferson,,Browne (L),,LIB,Browne,987
+Jefferson,,Bush (R),,REP,Bush,138491
+Jefferson,,Buchanan (I),,IND,Buchanan,670
+Jefferson,,Hagelin (I),,IND,Hagelin,81
+Jefferson,,Nader (I),,IND,Nader,3393
+Jefferson,,Phillips (I),,IND,Phillips,92
+Jefferson,,Write-In,,NON,Write-ins,160
+Jefferson,,Total,,,Total,273763
+Lamar,,Gore (D),,DEM,Gore,2653
+Lamar,,Browne (L),,LIB,Browne,6
+Lamar,,Bush (R),,REP,Bush,4470
+Lamar,,Buchanan (I),,IND,Buchanan,50
+Lamar,,Hagelin (I),,IND,Hagelin,1
+Lamar,,Nader (I),,IND,Nader,57
+Lamar,,Phillips (I),,IND,Phillips,6
+Lamar,,Write-In,,NON,Write-ins,6
+Lamar,,Total,,,Total,7249
+Lauderdale,,Gore (D),,DEM,Gore,13875
+Lauderdale,,Browne (L),,LIB,Browne,78
+Lauderdale,,Bush (R),,REP,Bush,17478
+Lauderdale,,Buchanan (I),,IND,Buchanan,296
+Lauderdale,,Hagelin (I),,IND,Hagelin,10
+Lauderdale,,Nader (I),,IND,Nader,354
+Lauderdale,,Phillips (I),,IND,Phillips,23
+Lauderdale,,Write-In,,NON,Write-ins,23
+Lauderdale,,Total,,,Total,32137
+Lawrence,,Gore (D),,DEM,Gore,6296
+Lawrence,,Browne (L),,LIB,Browne,22
+Lawrence,,Bush (R),,REP,Bush,5671
+Lawrence,,Buchanan (I),,IND,Buchanan,111
+Lawrence,,Hagelin (I),,IND,Hagelin,4
+Lawrence,,Nader (I),,IND,Nader,63
+Lawrence,,Phillips (I),,IND,Phillips,11
+Lawrence,,Write-In,,NON,Write-ins,7
+Lawrence,,Total,,,Total,12185
+Lee,,Gore (D),,DEM,Gore,14574
+Lee,,Browne (L),,LIB,Browne,233
+Lee,,Bush (R),,REP,Bush,22433
+Lee,,Buchanan (I),,IND,Buchanan,68
+Lee,,Hagelin (I),,IND,Hagelin,11
+Lee,,Nader (I),,IND,Nader,895
+Lee,,Phillips (I),,IND,Phillips,17
+Lee,,Write-In,,NON,Write-ins,33
+Lee,,Total,,,Total,38264
+Limestone,,Gore (D),,DEM,Gore,8992
+Limestone,,Browne (L),,LIB,Browne,78
+Limestone,,Bush (R),,REP,Bush,14204
+Limestone,,Buchanan (I),,IND,Buchanan,137
+Limestone,,Hagelin (I),,IND,Hagelin,6
+Limestone,,Nader (I),,IND,Nader,193
+Limestone,,Phillips (I),,IND,Phillips,13
+Limestone,,Write-In,,NON,Write-ins,11
+Limestone,,Total,,,Total,23634
+Lowndes,,Gore (D),,DEM,Gore,4557
+Lowndes,,Browne (L),,LIB,Browne,11
+Lowndes,,Bush (R),,REP,Bush,1638
+Lowndes,,Buchanan (I),,IND,Buchanan,11
+Lowndes,,Hagelin (I),,IND,Hagelin,4
+Lowndes,,Nader (I),,IND,Nader,18
+Lowndes,,Phillips (I),,IND,Phillips,3
+Lowndes,,Write-In,,NON,Write-ins,1
+Lowndes,,Total,,,Total,6243
+Macon,,Gore (D),,DEM,Gore,7665
+Macon,,Browne (L),,LIB,Browne,20
+Macon,,Bush (R),,REP,Bush,1091
+Macon,,Buchanan (I),,IND,Buchanan,10
+Macon,,Hagelin (I),,IND,Hagelin,6
+Macon,,Nader (I),,IND,Nader,31
+Macon,,Phillips (I),,IND,Phillips,6
+Macon,,Write-In,,NON,Write-ins,2
+Macon,,Total,,,Total,8831
+Madison,,Gore (D),,DEM,Gore,48199
+Madison,,Browne (L),,LIB,Browne,567
+Madison,,Bush (R),,REP,Bush,62151
+Madison,,Buchanan (I),,IND,Buchanan,322
+Madison,,Hagelin (I),,IND,Hagelin,47
+Madison,,Nader (I),,IND,Nader,1885
+Madison,,Phillips (I),,IND,Phillips,65
+Madison,,Write-In,,NON,Write-ins,82
+Madison,,Total,,,Total,113318
+Marengo,,Gore (D),,DEM,Gore,4841
+Marengo,,Browne (L),,LIB,Browne,12
+Marengo,,Bush (R),,REP,Bush,4690
+Marengo,,Buchanan (I),,IND,Buchanan,19
+Marengo,,Hagelin (I),,IND,Hagelin,2
+Marengo,,Nader (I),,IND,Nader,40
+Marengo,,Phillips (I),,IND,Phillips,4
+Marengo,,Write-In,,NON,Write-ins,0
+Marengo,,Total,,,Total,9608
+Marion,,Gore (D),,DEM,Gore,4600
+Marion,,Browne (L),,LIB,Browne,25
+Marion,,Bush (R),,REP,Bush,6910
+Marion,,Buchanan (I),,IND,Buchanan,77
+Marion,,Hagelin (I),,IND,Hagelin,7
+Marion,,Nader (I),,IND,Nader,125
+Marion,,Phillips (I),,IND,Phillips,7
+Marion,,Write-In,,NON,Write-ins,5
+Marion,,Total,,,Total,11756
+Marshall,,Gore (D),,DEM,Gore,10381
+Marshall,,Browne (L),,LIB,Browne,82
+Marshall,,Bush (R),,REP,Bush,17084
+Marshall,,Buchanan (I),,IND,Buchanan,157
+Marshall,,Hagelin (I),,IND,Hagelin,9
+Marshall,,Nader (I),,IND,Nader,256
+Marshall,,Phillips (I),,IND,Phillips,10
+Marshall,,Write-In,,NON,Write-ins,10
+Marshall,,Total,,,Total,27989
+Mobile,,Gore (D),,DEM,Gore,58640
+Mobile,,Browne (L),,LIB,Browne,727
+Mobile,,Bush (R),,REP,Bush,78162
+Mobile,,Buchanan (I),,IND,Buchanan,532
+Mobile,,Hagelin (I),,IND,Hagelin,26
+Mobile,,Nader (I),,IND,Nader,1585
+Mobile,,Phillips (I),,IND,Phillips,30
+Mobile,,Write-In,,NON,Write-ins,43
+Mobile,,Total,,,Total,139745
+Monroe,,Gore (D),,DEM,Gore,3741
+Monroe,,Browne (L),,LIB,Browne,11
+Monroe,,Bush (R),,REP,Bush,5153
+Monroe,,Buchanan (I),,IND,Buchanan,19
+Monroe,,Hagelin (I),,IND,Hagelin,0
+Monroe,,Nader (I),,IND,Nader,25
+Monroe,,Phillips (I),,IND,Phillips,0
+Monroe,,Write-In,,NON,Write-ins,2
+Monroe,,Total,,,Total,8951
+Montgomery,,Gore (D),,DEM,Gore,40371
+Montgomery,,Browne (L),,LIB,Browne,293
+Montgomery,,Bush (R),,REP,Bush,38827
+Montgomery,,Buchanan (I),,IND,Buchanan,113
+Montgomery,,Hagelin (I),,IND,Hagelin,17
+Montgomery,,Nader (I),,IND,Nader,677
+Montgomery,,Phillips (I),,IND,Phillips,10
+Montgomery,,Write-In,,NON,Write-ins,20
+Montgomery,,Total,,,Total,80328
+Morgan,,Gore (D),,DEM,Gore,16060
+Morgan,,Browne (L),,LIB,Browne,118
+Morgan,,Bush (R),,REP,Bush,25774
+Morgan,,Buchanan (I),,IND,Buchanan,214
+Morgan,,Hagelin (I),,IND,Hagelin,6
+Morgan,,Nader (I),,IND,Nader,450
+Morgan,,Phillips (I),,IND,Phillips,31
+Morgan,,Write-In,,NON,Write-ins,28
+Morgan,,Total,,,Total,42681
+Perry,,Gore (D),,DEM,Gore,4020
+Perry,,Browne (L),,LIB,Browne,7
+Perry,,Bush (R),,REP,Bush,1732
+Perry,,Buchanan (I),,IND,Buchanan,7
+Perry,,Hagelin (I),,IND,Hagelin,2
+Perry,,Nader (I),,IND,Nader,18
+Perry,,Phillips (I),,IND,Phillips,1
+Perry,,Write-In,,NON,Write-ins,0
+Perry,,Total,,,Total,5787
+Pickens,,Gore (D),,DEM,Gore,4143
+Pickens,,Browne (L),,LIB,Browne,20
+Pickens,,Bush (R),,REP,Bush,4306
+Pickens,,Buchanan (I),,IND,Buchanan,23
+Pickens,,Hagelin (I),,IND,Hagelin,1
+Pickens,,Nader (I),,IND,Nader,39
+Pickens,,Phillips (I),,IND,Phillips,4
+Pickens,,Write-In,,NON,Write-ins,4
+Pickens,,Total,,,Total,8540
+Pike,,Gore (D),,DEM,Gore,4357
+Pike,,Browne (L),,LIB,Browne,27
+Pike,,Bush (R),,REP,Bush,6058
+Pike,,Buchanan (I),,IND,Buchanan,17
+Pike,,Hagelin (I),,IND,Hagelin,3
+Pike,,Nader (I),,IND,Nader,75
+Pike,,Phillips (I),,IND,Phillips,4
+Pike,,Write-In,,NON,Write-ins,3
+Pike,,Total,,,Total,10544
+Randolph,,Gore (D),,DEM,Gore,3094
+Randolph,,Browne (L),,LIB,Browne,39
+Randolph,,Bush (R),,REP,Bush,4666
+Randolph,,Buchanan (I),,IND,Buchanan,48
+Randolph,,Hagelin (I),,IND,Hagelin,4
+Randolph,,Nader (I),,IND,Nader,60
+Randolph,,Phillips (I),,IND,Phillips,8
+Randolph,,Write-In,,NON,Write-ins,0
+Randolph,,Total,,,Total,7919
+Russell,,Gore (D),,DEM,Gore,8396
+Russell,,Browne (L),,LIB,Browne,30
+Russell,,Bush (R),,REP,Bush,6198
+Russell,,Buchanan (I),,IND,Buchanan,31
+Russell,,Hagelin (I),,IND,Hagelin,4
+Russell,,Nader (I),,IND,Nader,109
+Russell,,Phillips (I),,IND,Phillips,3
+Russell,,Write-In,,NON,Write-ins,4
+Russell,,Total,,,Total,14775
+St. Clair,,Gore (D),,DEM,Gore,6485
+St. Clair,,Browne (L),,LIB,Browne,87
+St. Clair,,Bush (R),,REP,Bush,17117
+St. Clair,,Buchanan (I),,IND,Buchanan,144
+St. Clair,,Hagelin (I),,IND,Hagelin,5
+St. Clair,,Nader (I),,IND,Nader,221
+St. Clair,,Phillips (I),,IND,Phillips,21
+St. Clair,,Write-In,,NON,Write-ins,10
+St. Clair,,Total,,,Total,24090
+Shelby,,Gore (D),,DEM,Gore,13183
+Shelby,,Browne (L),,LIB,Browne,281
+Shelby,,Bush (R),,REP,Bush,47651
+Shelby,,Buchanan (I),,IND,Buchanan,123
+Shelby,,Hagelin (I),,IND,Hagelin,13
+Shelby,,Nader (I),,IND,Nader,812
+Shelby,,Phillips (I),,IND,Phillips,39
+Shelby,,Write-In,,NON,Write-ins,26
+Shelby,,Total,,,Total,62128
+Sumter,,Gore (D),,DEM,Gore,4415
+Sumter,,Browne (L),,LIB,Browne,10
+Sumter,,Bush (R),,REP,Bush,1629
+Sumter,,Buchanan (I),,IND,Buchanan,7
+Sumter,,Hagelin (I),,IND,Hagelin,0
+Sumter,,Nader (I),,IND,Nader,20
+Sumter,,Phillips (I),,IND,Phillips,5
+Sumter,,Write-In,,NON,Write-ins,2
+Sumter,,Total,,,Total,6088
+Talladega,,Gore (D),,DEM,Gore,11264
+Talladega,,Browne (L),,LIB,Browne,75
+Talladega,,Bush (R),,REP,Bush,13807
+Talladega,,Buchanan (I),,IND,Buchanan,107
+Talladega,,Hagelin (I),,IND,Hagelin,2
+Talladega,,Nader (I),,IND,Nader,184
+Talladega,,Phillips (I),,IND,Phillips,7
+Talladega,,Write-In,,NON,Write-ins,5
+Talladega,,Total,,,Total,25451
+Tallapoosa,,Gore (D),,DEM,Gore,6183
+Tallapoosa,,Browne (L),,LIB,Browne,47
+Tallapoosa,,Bush (R),,REP,Bush,9805
+Tallapoosa,,Buchanan (I),,IND,Buchanan,44
+Tallapoosa,,Hagelin (I),,IND,Hagelin,11
+Tallapoosa,,Nader (I),,IND,Nader,153
+Tallapoosa,,Phillips (I),,IND,Phillips,4
+Tallapoosa,,Write-In,,NON,Write-ins,6
+Tallapoosa,,Total,,,Total,16253
+Tuscaloosa,,Gore (D),,DEM,Gore,24614
+Tuscaloosa,,Browne (L),,LIB,Browne,251
+Tuscaloosa,,Bush (R),,REP,Bush,34003
+Tuscaloosa,,Buchanan (I),,IND,Buchanan,193
+Tuscaloosa,,Hagelin (I),,IND,Hagelin,18
+Tuscaloosa,,Nader (I),,IND,Nader,1007
+Tuscaloosa,,Phillips (I),,IND,Phillips,28
+Tuscaloosa,,Write-In,,NON,Write-ins,0
+Tuscaloosa,,Total,,,Total,60114
+Walker,,Gore (D),,DEM,Gore,11621
+Walker,,Browne (L),,LIB,Browne,70
+Walker,,Bush (R),,REP,Bush,13486
+Walker,,Buchanan (I),,IND,Buchanan,177
+Walker,,Hagelin (I),,IND,Hagelin,5
+Walker,,Nader (I),,IND,Nader,264
+Walker,,Phillips (I),,IND,Phillips,8
+Walker,,Write-In,,NON,Write-ins,10
+Walker,,Total,,,Total,25641
+Washington,,Gore (D),,DEM,Gore,3386
+Washington,,Browne (L),,LIB,Browne,22
+Washington,,Bush (R),,REP,Bush,4117
+Washington,,Buchanan (I),,IND,Buchanan,39
+Washington,,Hagelin (I),,IND,Hagelin,2
+Washington,,Nader (I),,IND,Nader,26
+Washington,,Phillips (I),,IND,Phillips,3
+Washington,,Write-In,,NON,Write-ins,1
+Washington,,Total,,,Total,7596
+Wilcox,,Gore (D),,DEM,Gore,3444
+Wilcox,,Browne (L),,LIB,Browne,4
+Wilcox,,Bush (R),,REP,Bush,1661
+Wilcox,,Buchanan (I),,IND,Buchanan,4
+Wilcox,,Hagelin (I),,IND,Hagelin,0
+Wilcox,,Nader (I),,IND,Nader,6
+Wilcox,,Phillips (I),,IND,Phillips,2
+Wilcox,,Write-In,,NON,Write-ins,5
+Wilcox,,Total,,,Total,5126
+Winston,,Gore (D),,DEM,Gore,2692
+Winston,,Browne (L),,LIB,Browne,22
+Winston,,Bush (R),,REP,Bush,6413
+Winston,,Buchanan (I),,IND,Buchanan,91
+Winston,,Hagelin (I),,IND,Hagelin,2
+Winston,,Nader (I),,IND,Nader,88
+Winston,,Phillips (I),,IND,Phillips,5
+Winston,,Write-In,,NON,Write-ins,5
+Winston,,Total,,,Total,9318
+Totals,,Gore (D),,DEM,Gore,692611
+Totals,,Browne (L),,LIB,Browne,5893
+Totals,,Bush (R),,REP,Bush,941173
+Totals,,Buchanan (I),,IND,Buchanan,6351
+Totals,,Hagelin (I),,IND,Hagelin,447
+Totals,,Nader (I),,IND,Nader,18323
+Totals,,Phillips (I),,IND,Phillips,775
+Totals,,Write-In,,NON,Write-ins,699
+Totals,,Total,,,Total,1666272
+%,,Gore (D),,DEM,Gore,0.4156650294789806
+%,,Browne (L),,LIB,Browne,0.0035366374757542585
+%,,Bush (R),,REP,Bush,0.5648375535326765
+%,,Buchanan (I),,IND,Buchanan,0.0038115025638071095
+%,,Hagelin (I),,IND,Hagelin,0.0002682635248026733
+%,,Nader (I),,IND,Nader,0.010996403948454993
+%,,Phillips (I),,IND,Phillips,0.0004651101380806975
+%,,Write-In,,NON,Write-ins,0.00041949933744310654
