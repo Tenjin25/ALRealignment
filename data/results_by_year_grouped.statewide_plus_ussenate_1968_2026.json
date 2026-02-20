@@ -247460,17 +247460,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 7439,
-            "rep_votes": 41657,
+            "rep_votes": 20484,
             "other_votes": 1515,
-            "total_votes": 50611,
-            "two_party_total": 49096,
-            "margin": 34218,
-            "margin_pct": "R+67.61",
+            "total_votes": 29438,
+            "two_party_total": 27923,
+            "margin": 13045,
+            "margin_pct": "R+44.31",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 41657,
+            "winner_votes": 20484,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -247479,7 +247479,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 7439,
-              "REPUBLICAN": 41657,
+              "REPUBLICAN": 20484,
               "INDEPENDENT": 267,
               "NONPARTISAN": 1248
             },
@@ -247513,11 +247513,6 @@
                 "votes": 1248,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 21173,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247528,17 +247523,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 24934,
-            "rep_votes": 195033,
+            "rep_votes": 95798,
             "other_votes": 4742,
-            "total_votes": 224709,
-            "two_party_total": 219967,
-            "margin": 170099,
-            "margin_pct": "R+75.70",
+            "total_votes": 125474,
+            "two_party_total": 120732,
+            "margin": 70864,
+            "margin_pct": "R+56.48",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 195033,
+            "winner_votes": 95798,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -247547,7 +247542,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 24934,
-              "REPUBLICAN": 195033,
+              "REPUBLICAN": 95798,
               "INDEPENDENT": 1076,
               "NONPARTISAN": 3666
             },
@@ -247581,11 +247576,6 @@
                 "votes": 3666,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 99235,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247596,26 +247586,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4158,
-            "rep_votes": 11192,
+            "rep_votes": 5606,
             "other_votes": 376,
-            "total_votes": 15726,
-            "two_party_total": 15350,
-            "margin": 7034,
-            "margin_pct": "R+44.73",
+            "total_votes": 10140,
+            "two_party_total": 9764,
+            "margin": 1448,
+            "margin_pct": "R+14.28",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 11192,
+            "winner_votes": 5606,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Safe",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
             },
             "all_parties": {
               "DEMOCRAT": 4158,
-              "REPUBLICAN": 11192,
+              "REPUBLICAN": 5606,
               "INDEPENDENT": 68,
               "NONPARTISAN": 308
             },
@@ -247649,11 +247639,6 @@
                 "votes": 308,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 5586,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247664,17 +247649,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1619,
-            "rep_votes": 15133,
+            "rep_votes": 7572,
             "other_votes": 312,
-            "total_votes": 17064,
-            "two_party_total": 16752,
-            "margin": 13514,
-            "margin_pct": "R+79.20",
+            "total_votes": 9503,
+            "two_party_total": 9191,
+            "margin": 5953,
+            "margin_pct": "R+62.64",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 15133,
+            "winner_votes": 7572,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -247683,7 +247668,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1619,
-              "REPUBLICAN": 15133,
+              "REPUBLICAN": 7572,
               "INDEPENDENT": 50,
               "NONPARTISAN": 262
             },
@@ -247717,11 +247702,6 @@
                 "votes": 262,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 7561,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247732,17 +247712,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2576,
-            "rep_votes": 50290,
+            "rep_votes": 25354,
             "other_votes": 901,
-            "total_votes": 53767,
-            "two_party_total": 52866,
-            "margin": 47714,
-            "margin_pct": "R+88.74",
+            "total_votes": 28831,
+            "two_party_total": 27930,
+            "margin": 22778,
+            "margin_pct": "R+79.01",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 50290,
+            "winner_votes": 25354,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -247751,7 +247731,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 2576,
-              "REPUBLICAN": 50290,
+              "REPUBLICAN": 25354,
               "INDEPENDENT": 185,
               "NONPARTISAN": 716
             },
@@ -247785,11 +247765,6 @@
                 "votes": 716,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 24936,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247800,26 +247775,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2983,
-            "rep_votes": 2319,
+            "rep_votes": 1101,
             "other_votes": 148,
-            "total_votes": 5450,
-            "two_party_total": 5302,
-            "margin": 664,
-            "margin_pct": "D+12.18",
+            "total_votes": 4232,
+            "two_party_total": 4084,
+            "margin": 1882,
+            "margin_pct": "D+44.47",
             "winner": "DEMOCRAT",
             "winner_name": "Kamala D. Harris",
             "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
             "winner_votes": 2983,
             "competitiveness": {
-              "category": "Safe",
+              "category": "Annihilation",
               "party": "DEMOCRAT",
-              "code": "DEMOCRAT_SAFE",
-              "color": "#6baed6"
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
             },
             "all_parties": {
               "DEMOCRAT": 2983,
-              "REPUBLICAN": 2319,
+              "REPUBLICAN": 1101,
               "INDEPENDENT": 22,
               "NONPARTISAN": 126
             },
@@ -247853,11 +247828,6 @@
                 "votes": 126,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 1218,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247868,26 +247838,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3251,
-            "rep_votes": 10483,
+            "rep_votes": 5172,
             "other_votes": 238,
-            "total_votes": 13972,
-            "two_party_total": 13734,
-            "margin": 7232,
-            "margin_pct": "R+51.76",
+            "total_votes": 8661,
+            "two_party_total": 8423,
+            "margin": 1921,
+            "margin_pct": "R+22.18",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 10483,
+            "winner_votes": 5172,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 3251,
-              "REPUBLICAN": 10483,
+              "REPUBLICAN": 5172,
               "INDEPENDENT": 44,
               "NONPARTISAN": 194
             },
@@ -247921,11 +247891,6 @@
                 "votes": 194,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 5311,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -247936,17 +247901,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 13194,
-            "rep_votes": 70956,
+            "rep_votes": 34912,
             "other_votes": 2442,
-            "total_votes": 86592,
-            "two_party_total": 84150,
-            "margin": 57762,
-            "margin_pct": "R+66.71",
+            "total_votes": 50548,
+            "two_party_total": 48106,
+            "margin": 21718,
+            "margin_pct": "R+42.97",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 70956,
+            "winner_votes": 34912,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -247955,7 +247920,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 13194,
-              "REPUBLICAN": 70956,
+              "REPUBLICAN": 34912,
               "INDEPENDENT": 424,
               "NONPARTISAN": 2018
             },
@@ -247989,11 +247954,6 @@
                 "votes": 2018,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 36044,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248004,26 +247964,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 5405,
-            "rep_votes": 17994,
+            "rep_votes": 8711,
             "other_votes": 597,
-            "total_votes": 23996,
-            "two_party_total": 23399,
-            "margin": 12589,
-            "margin_pct": "R+52.46",
+            "total_votes": 14713,
+            "two_party_total": 14116,
+            "margin": 3306,
+            "margin_pct": "R+22.47",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 17994,
+            "winner_votes": 8711,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 5405,
-              "REPUBLICAN": 17994,
+              "REPUBLICAN": 8711,
               "INDEPENDENT": 105,
               "NONPARTISAN": 492
             },
@@ -248057,11 +248017,6 @@
                 "votes": 492,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 9283,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248072,17 +248027,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1553,
-            "rep_votes": 22618,
+            "rep_votes": 11358,
             "other_votes": 259,
-            "total_votes": 24430,
-            "two_party_total": 24171,
-            "margin": 21065,
-            "margin_pct": "R+86.23",
+            "total_votes": 13170,
+            "two_party_total": 12911,
+            "margin": 9805,
+            "margin_pct": "R+74.45",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 22618,
+            "winner_votes": 11358,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248091,7 +248046,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1553,
-              "REPUBLICAN": 22618,
+              "REPUBLICAN": 11358,
               "INDEPENDENT": 73,
               "NONPARTISAN": 186
             },
@@ -248125,11 +248080,6 @@
                 "votes": 186,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 11260,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248140,17 +248090,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2698,
-            "rep_votes": 33233,
+            "rep_votes": 16920,
             "other_votes": 570,
-            "total_votes": 36501,
-            "two_party_total": 35931,
-            "margin": 30535,
-            "margin_pct": "R+83.66",
+            "total_votes": 20188,
+            "two_party_total": 19618,
+            "margin": 14222,
+            "margin_pct": "R+70.45",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 33233,
+            "winner_votes": 16920,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248159,7 +248109,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 2698,
-              "REPUBLICAN": 33233,
+              "REPUBLICAN": 16920,
               "INDEPENDENT": 110,
               "NONPARTISAN": 460
             },
@@ -248193,11 +248143,6 @@
                 "votes": 460,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 16313,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248208,26 +248153,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2515,
-            "rep_votes": 8136,
+            "rep_votes": 4103,
             "other_votes": 140,
-            "total_votes": 10791,
-            "two_party_total": 10651,
-            "margin": 5621,
-            "margin_pct": "R+52.09",
+            "total_votes": 6758,
+            "two_party_total": 6618,
+            "margin": 1588,
+            "margin_pct": "R+23.50",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 8136,
+            "winner_votes": 4103,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 2515,
-              "REPUBLICAN": 8136,
+              "REPUBLICAN": 4103,
               "INDEPENDENT": 28,
               "NONPARTISAN": 112
             },
@@ -248261,11 +248206,6 @@
                 "votes": 112,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 4033,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248276,26 +248216,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4927,
-            "rep_votes": 14112,
+            "rep_votes": 6965,
             "other_votes": 284,
-            "total_votes": 19323,
-            "two_party_total": 19039,
-            "margin": 9185,
-            "margin_pct": "R+47.53",
+            "total_votes": 12176,
+            "two_party_total": 11892,
+            "margin": 2038,
+            "margin_pct": "R+16.74",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 14112,
+            "winner_votes": 6965,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Safe",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
             },
             "all_parties": {
               "DEMOCRAT": 4927,
-              "REPUBLICAN": 14112,
+              "REPUBLICAN": 6965,
               "INDEPENDENT": 54,
               "NONPARTISAN": 230
             },
@@ -248329,11 +248269,6 @@
                 "votes": 230,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 7147,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248344,17 +248279,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 993,
-            "rep_votes": 11360,
+            "rep_votes": 5734,
             "other_votes": 150,
-            "total_votes": 12503,
-            "two_party_total": 12353,
-            "margin": 10367,
-            "margin_pct": "R+82.92",
+            "total_votes": 6877,
+            "two_party_total": 6727,
+            "margin": 4741,
+            "margin_pct": "R+68.94",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 11360,
+            "winner_votes": 5734,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248363,7 +248298,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 993,
-              "REPUBLICAN": 11360,
+              "REPUBLICAN": 5734,
               "INDEPENDENT": 30,
               "NONPARTISAN": 120
             },
@@ -248397,11 +248332,6 @@
                 "votes": 120,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 5626,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248412,17 +248342,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 605,
-            "rep_votes": 13769,
+            "rep_votes": 6988,
             "other_votes": 152,
-            "total_votes": 14526,
-            "two_party_total": 14374,
-            "margin": 13164,
-            "margin_pct": "R+90.62",
+            "total_votes": 7745,
+            "two_party_total": 7593,
+            "margin": 6383,
+            "margin_pct": "R+82.41",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 13769,
+            "winner_votes": 6988,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248431,7 +248361,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 605,
-              "REPUBLICAN": 13769,
+              "REPUBLICAN": 6988,
               "INDEPENDENT": 44,
               "NONPARTISAN": 108
             },
@@ -248465,11 +248395,6 @@
                 "votes": 108,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 6781,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248480,17 +248405,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4601,
-            "rep_votes": 35382,
+            "rep_votes": 17495,
             "other_votes": 714,
-            "total_votes": 40697,
-            "two_party_total": 39983,
-            "margin": 30781,
-            "margin_pct": "R+75.63",
+            "total_votes": 22810,
+            "two_party_total": 22096,
+            "margin": 12894,
+            "margin_pct": "R+56.53",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 35382,
+            "winner_votes": 17495,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248499,7 +248424,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 4601,
-              "REPUBLICAN": 35382,
+              "REPUBLICAN": 17495,
               "INDEPENDENT": 174,
               "NONPARTISAN": 540
             },
@@ -248533,11 +248458,6 @@
                 "votes": 540,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 17887,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248548,17 +248468,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 7137,
-            "rep_votes": 39735,
+            "rep_votes": 19714,
             "other_votes": 971,
-            "total_votes": 47843,
-            "two_party_total": 46872,
-            "margin": 32598,
-            "margin_pct": "R+68.14",
+            "total_votes": 27822,
+            "two_party_total": 26851,
+            "margin": 12577,
+            "margin_pct": "R+45.21",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 39735,
+            "winner_votes": 19714,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248567,7 +248487,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 7137,
-              "REPUBLICAN": 39735,
+              "REPUBLICAN": 19714,
               "INDEPENDENT": 235,
               "NONPARTISAN": 736
             },
@@ -248601,11 +248521,6 @@
                 "votes": 736,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 20021,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248616,26 +248531,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2580,
-            "rep_votes": 6633,
+            "rep_votes": 3423,
             "other_votes": 166,
-            "total_votes": 9379,
-            "two_party_total": 9213,
-            "margin": 4053,
-            "margin_pct": "R+43.21",
+            "total_votes": 6169,
+            "two_party_total": 6003,
+            "margin": 843,
+            "margin_pct": "R+13.67",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 6633,
+            "winner_votes": 3423,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Safe",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
             },
             "all_parties": {
               "DEMOCRAT": 2580,
-              "REPUBLICAN": 6633,
+              "REPUBLICAN": 3423,
               "INDEPENDENT": 40,
               "NONPARTISAN": 126
             },
@@ -248669,11 +248584,6 @@
                 "votes": 126,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 3210,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248684,17 +248594,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1478,
-            "rep_votes": 7510,
+            "rep_votes": 3758,
             "other_votes": 148,
-            "total_votes": 9136,
-            "two_party_total": 8988,
-            "margin": 6032,
-            "margin_pct": "R+66.02",
+            "total_votes": 5384,
+            "two_party_total": 5236,
+            "margin": 2280,
+            "margin_pct": "R+42.35",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 7510,
+            "winner_votes": 3758,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248703,7 +248613,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1478,
-              "REPUBLICAN": 7510,
+              "REPUBLICAN": 3758,
               "INDEPENDENT": 28,
               "NONPARTISAN": 120
             },
@@ -248737,11 +248647,6 @@
                 "votes": 120,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 3752,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248752,17 +248657,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2314,
-            "rep_votes": 28970,
+            "rep_votes": 14677,
             "other_votes": 305,
-            "total_votes": 31589,
-            "two_party_total": 31284,
-            "margin": 26656,
-            "margin_pct": "R+84.38",
+            "total_votes": 17296,
+            "two_party_total": 16991,
+            "margin": 12363,
+            "margin_pct": "R+71.48",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 28970,
+            "winner_votes": 14677,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248771,7 +248676,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 2314,
-              "REPUBLICAN": 28970,
+              "REPUBLICAN": 14677,
               "INDEPENDENT": 81,
               "NONPARTISAN": 224
             },
@@ -248805,11 +248710,6 @@
                 "votes": 224,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 14293,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248820,17 +248720,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1457,
-            "rep_votes": 9909,
+            "rep_votes": 5000,
             "other_votes": 133,
-            "total_votes": 11499,
-            "two_party_total": 11366,
-            "margin": 8452,
-            "margin_pct": "R+73.50",
+            "total_votes": 6590,
+            "two_party_total": 6457,
+            "margin": 3543,
+            "margin_pct": "R+53.76",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 9909,
+            "winner_votes": 5000,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248839,7 +248739,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1457,
-              "REPUBLICAN": 9909,
+              "REPUBLICAN": 5000,
               "INDEPENDENT": 23,
               "NONPARTISAN": 110
             },
@@ -248873,11 +248773,6 @@
                 "votes": 110,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 4909,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248888,17 +248783,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4039,
-            "rep_votes": 77067,
+            "rep_votes": 38704,
             "other_votes": 1037,
-            "total_votes": 82143,
-            "two_party_total": 81106,
-            "margin": 73028,
-            "margin_pct": "R+88.90",
+            "total_votes": 43780,
+            "two_party_total": 42743,
+            "margin": 34665,
+            "margin_pct": "R+79.18",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 77067,
+            "winner_votes": 38704,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248907,7 +248802,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 4039,
-              "REPUBLICAN": 77067,
+              "REPUBLICAN": 38704,
               "INDEPENDENT": 309,
               "NONPARTISAN": 728
             },
@@ -248941,11 +248836,6 @@
                 "votes": 728,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 38363,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -248956,17 +248846,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 14810,
-            "rep_votes": 95564,
+            "rep_votes": 47184,
             "other_votes": 1980,
-            "total_votes": 112354,
-            "two_party_total": 110374,
-            "margin": 80754,
-            "margin_pct": "R+71.87",
+            "total_votes": 63974,
+            "two_party_total": 61994,
+            "margin": 32374,
+            "margin_pct": "R+50.60",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 95564,
+            "winner_votes": 47184,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -248975,7 +248865,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 14810,
-              "REPUBLICAN": 95564,
+              "REPUBLICAN": 47184,
               "INDEPENDENT": 563,
               "NONPARTISAN": 1417
             },
@@ -249009,11 +248899,6 @@
                 "votes": 1417,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 48380,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249024,26 +248909,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 10236,
-            "rep_votes": 10776,
+            "rep_votes": 5190,
             "other_votes": 678,
-            "total_votes": 21690,
-            "two_party_total": 21012,
-            "margin": 540,
-            "margin_pct": "R+2.49",
-            "winner": "REPUBLICAN",
-            "winner_name": "Donald J. Trump",
-            "winner_party": "REPUBLICAN",
+            "total_votes": 16104,
+            "two_party_total": 15426,
+            "margin": 5046,
+            "margin_pct": "D+31.33",
+            "winner": "DEMOCRAT",
+            "winner_name": "Kamala D. Harris",
+            "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
-            "winner_votes": 10776,
+            "winner_votes": 10236,
             "competitiveness": {
-              "category": "Lean",
-              "party": "REPUBLICAN",
-              "code": "REPUBLICAN_LEAN",
-              "color": "#fcae91"
+              "category": "Dominant",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_DOMINANT",
+              "color": "#08519c"
             },
             "all_parties": {
               "DEMOCRAT": 10236,
-              "REPUBLICAN": 10776,
+              "REPUBLICAN": 5190,
               "INDEPENDENT": 102,
               "NONPARTISAN": 576
             },
@@ -249077,11 +248962,6 @@
                 "votes": 576,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 5586,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249092,17 +248972,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3758,
-            "rep_votes": 50973,
+            "rep_votes": 25633,
             "other_votes": 714,
-            "total_votes": 55445,
-            "two_party_total": 54731,
-            "margin": 47215,
-            "margin_pct": "R+85.16",
+            "total_votes": 30105,
+            "two_party_total": 29391,
+            "margin": 21875,
+            "margin_pct": "R+72.66",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 50973,
+            "winner_votes": 25633,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249111,7 +248991,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 3758,
-              "REPUBLICAN": 50973,
+              "REPUBLICAN": 25633,
               "INDEPENDENT": 192,
               "NONPARTISAN": 522
             },
@@ -249145,11 +249025,6 @@
                 "votes": 522,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 25340,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249160,17 +249035,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 9774,
-            "rep_votes": 63678,
+            "rep_votes": 31374,
             "other_votes": 1841,
-            "total_votes": 75293,
-            "two_party_total": 73452,
-            "margin": 53904,
-            "margin_pct": "R+71.59",
+            "total_votes": 42989,
+            "two_party_total": 41148,
+            "margin": 21600,
+            "margin_pct": "R+50.25",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 63678,
+            "winner_votes": 31374,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249179,7 +249054,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 9774,
-              "REPUBLICAN": 63678,
+              "REPUBLICAN": 31374,
               "INDEPENDENT": 343,
               "NONPARTISAN": 1498
             },
@@ -249213,11 +249088,6 @@
                 "votes": 1498,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 32304,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249228,17 +249098,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3964,
-            "rep_votes": 21991,
+            "rep_votes": 10884,
             "other_votes": 421,
-            "total_votes": 26376,
-            "two_party_total": 25955,
-            "margin": 18027,
-            "margin_pct": "R+68.35",
+            "total_votes": 15269,
+            "two_party_total": 14848,
+            "margin": 6920,
+            "margin_pct": "R+45.32",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 21991,
+            "winner_votes": 10884,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249247,7 +249117,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 3964,
-              "REPUBLICAN": 21991,
+              "REPUBLICAN": 10884,
               "INDEPENDENT": 81,
               "NONPARTISAN": 340
             },
@@ -249281,11 +249151,6 @@
                 "votes": 340,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 11107,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249296,17 +249161,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 10027,
-            "rep_votes": 71657,
+            "rep_votes": 35653,
             "other_votes": 1861,
-            "total_votes": 83545,
-            "two_party_total": 81684,
-            "margin": 61630,
-            "margin_pct": "R+73.77",
+            "total_votes": 47541,
+            "two_party_total": 45680,
+            "margin": 25626,
+            "margin_pct": "R+53.90",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 71657,
+            "winner_votes": 35653,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249315,7 +249180,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 10027,
-              "REPUBLICAN": 71657,
+              "REPUBLICAN": 35653,
               "INDEPENDENT": 343,
               "NONPARTISAN": 1518
             },
@@ -249349,11 +249214,6 @@
                 "votes": 1518,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 36004,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249364,17 +249224,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1142,
-            "rep_votes": 14203,
+            "rep_votes": 7158,
             "other_votes": 204,
-            "total_votes": 15549,
-            "two_party_total": 15345,
-            "margin": 13061,
-            "margin_pct": "R+84.00",
+            "total_votes": 8504,
+            "two_party_total": 8300,
+            "margin": 6016,
+            "margin_pct": "R+70.74",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 14203,
+            "winner_votes": 7158,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249383,7 +249243,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1142,
-              "REPUBLICAN": 14203,
+              "REPUBLICAN": 7158,
               "INDEPENDENT": 56,
               "NONPARTISAN": 148
             },
@@ -249417,11 +249277,6 @@
                 "votes": 148,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 7045,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249432,17 +249287,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1568,
-            "rep_votes": 20461,
+            "rep_votes": 10417,
             "other_votes": 290,
-            "total_votes": 22319,
-            "two_party_total": 22029,
-            "margin": 18893,
-            "margin_pct": "R+84.65",
+            "total_votes": 12275,
+            "two_party_total": 11985,
+            "margin": 8849,
+            "margin_pct": "R+72.09",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 20461,
+            "winner_votes": 10417,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249451,7 +249306,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1568,
-              "REPUBLICAN": 20461,
+              "REPUBLICAN": 10417,
               "INDEPENDENT": 92,
               "NONPARTISAN": 198
             },
@@ -249485,11 +249340,6 @@
                 "votes": 198,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 10044,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249500,17 +249350,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1391,
-            "rep_votes": 21795,
+            "rep_votes": 10929,
             "other_votes": 240,
-            "total_votes": 23426,
-            "two_party_total": 23186,
-            "margin": 20404,
-            "margin_pct": "R+87.10",
+            "total_votes": 12560,
+            "two_party_total": 12320,
+            "margin": 9538,
+            "margin_pct": "R+75.94",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 21795,
+            "winner_votes": 10929,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249519,7 +249369,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1391,
-              "REPUBLICAN": 21795,
+              "REPUBLICAN": 10929,
               "INDEPENDENT": 70,
               "NONPARTISAN": 170
             },
@@ -249553,11 +249403,6 @@
                 "votes": 170,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 10866,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249568,26 +249413,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3133,
-            "rep_votes": 1854,
+            "rep_votes": 885,
             "other_votes": 91,
-            "total_votes": 5078,
-            "two_party_total": 4987,
-            "margin": 1279,
-            "margin_pct": "D+25.19",
+            "total_votes": 4109,
+            "two_party_total": 4018,
+            "margin": 2248,
+            "margin_pct": "D+54.71",
             "winner": "DEMOCRAT",
             "winner_name": "Kamala D. Harris",
             "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
             "winner_votes": 3133,
             "competitiveness": {
-              "category": "Stronghold",
+              "category": "Annihilation",
               "party": "DEMOCRAT",
-              "code": "DEMOCRAT_STRONGHOLD",
-              "color": "#3182bd"
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
             },
             "all_parties": {
               "DEMOCRAT": 3133,
-              "REPUBLICAN": 1854,
+              "REPUBLICAN": 885,
               "INDEPENDENT": 17,
               "NONPARTISAN": 74
             },
@@ -249621,11 +249466,6 @@
                 "votes": 74,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 969,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249636,26 +249476,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3868,
-            "rep_votes": 6847,
+            "rep_votes": 3369,
             "other_votes": 253,
-            "total_votes": 10968,
-            "two_party_total": 10715,
-            "margin": 2979,
-            "margin_pct": "R+27.16",
-            "winner": "REPUBLICAN",
-            "winner_name": "Donald J. Trump",
-            "winner_party": "REPUBLICAN",
+            "total_votes": 7490,
+            "two_party_total": 7237,
+            "margin": 499,
+            "margin_pct": "D+6.66",
+            "winner": "DEMOCRAT",
+            "winner_name": "Kamala D. Harris",
+            "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
-            "winner_votes": 6847,
+            "winner_votes": 3868,
             "competitiveness": {
-              "category": "Stronghold",
-              "party": "REPUBLICAN",
-              "code": "REPUBLICAN_STRONGHOLD",
-              "color": "#cb181d"
+              "category": "Likely",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LIKELY",
+              "color": "#9ecae1"
             },
             "all_parties": {
               "DEMOCRAT": 3868,
-              "REPUBLICAN": 6847,
+              "REPUBLICAN": 3369,
               "INDEPENDENT": 53,
               "NONPARTISAN": 200
             },
@@ -249689,11 +249529,6 @@
                 "votes": 200,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 3478,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249704,17 +249539,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2263,
-            "rep_votes": 13976,
+            "rep_votes": 6989,
             "other_votes": 275,
-            "total_votes": 16514,
-            "two_party_total": 16239,
-            "margin": 11713,
-            "margin_pct": "R+70.93",
+            "total_votes": 9527,
+            "two_party_total": 9252,
+            "margin": 4726,
+            "margin_pct": "R+49.61",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 13976,
+            "winner_votes": 6989,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249723,7 +249558,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 2263,
-              "REPUBLICAN": 13976,
+              "REPUBLICAN": 6989,
               "INDEPENDENT": 49,
               "NONPARTISAN": 226
             },
@@ -249757,11 +249592,6 @@
                 "votes": 226,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 6987,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249772,17 +249602,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 11352,
-            "rep_votes": 66650,
+            "rep_votes": 32469,
             "other_votes": 2190,
-            "total_votes": 80192,
-            "two_party_total": 78002,
-            "margin": 55298,
-            "margin_pct": "R+68.96",
+            "total_votes": 46011,
+            "two_party_total": 43821,
+            "margin": 21117,
+            "margin_pct": "R+45.90",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 66650,
+            "winner_votes": 32469,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249791,7 +249621,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 11352,
-              "REPUBLICAN": 66650,
+              "REPUBLICAN": 32469,
               "INDEPENDENT": 374,
               "NONPARTISAN": 1816
             },
@@ -249825,11 +249655,6 @@
                 "votes": 1816,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 34181,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249840,17 +249665,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3276,
-            "rep_votes": 39499,
+            "rep_votes": 20073,
             "other_votes": 544,
-            "total_votes": 43319,
-            "two_party_total": 42775,
-            "margin": 36223,
-            "margin_pct": "R+83.62",
+            "total_votes": 23893,
+            "two_party_total": 23349,
+            "margin": 16797,
+            "margin_pct": "R+70.30",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 39499,
+            "winner_votes": 20073,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249859,7 +249684,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 3276,
-              "REPUBLICAN": 39499,
+              "REPUBLICAN": 20073,
               "INDEPENDENT": 160,
               "NONPARTISAN": 384
             },
@@ -249893,11 +249718,6 @@
                 "votes": 384,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 19426,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249908,26 +249728,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 162112,
-            "rep_votes": 280134,
+            "rep_votes": 131123,
             "other_votes": 23898,
-            "total_votes": 466144,
-            "two_party_total": 442246,
-            "margin": 118022,
-            "margin_pct": "R+25.32",
-            "winner": "REPUBLICAN",
-            "winner_name": "Donald J. Trump",
-            "winner_party": "REPUBLICAN",
+            "total_votes": 317133,
+            "two_party_total": 293235,
+            "margin": 30989,
+            "margin_pct": "D+9.77",
+            "winner": "DEMOCRAT",
+            "winner_name": "Kamala D. Harris",
+            "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
-            "winner_votes": 280134,
+            "winner_votes": 162112,
             "competitiveness": {
-              "category": "Stronghold",
-              "party": "REPUBLICAN",
-              "code": "REPUBLICAN_STRONGHOLD",
-              "color": "#cb181d"
+              "category": "Likely",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LIKELY",
+              "color": "#9ecae1"
             },
             "all_parties": {
               "DEMOCRAT": 162112,
-              "REPUBLICAN": 280134,
+              "REPUBLICAN": 131123,
               "INDEPENDENT": 3506,
               "NONPARTISAN": 20392
             },
@@ -249961,11 +249781,6 @@
                 "votes": 20392,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 149011,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -249976,17 +249791,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 806,
-            "rep_votes": 11919,
+            "rep_votes": 6033,
             "other_votes": 156,
-            "total_votes": 12881,
-            "two_party_total": 12725,
-            "margin": 11113,
-            "margin_pct": "R+86.27",
+            "total_votes": 6995,
+            "two_party_total": 6839,
+            "margin": 5227,
+            "margin_pct": "R+74.72",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 11919,
+            "winner_votes": 6033,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -249995,7 +249810,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 806,
-              "REPUBLICAN": 11919,
+              "REPUBLICAN": 6033,
               "INDEPENDENT": 36,
               "NONPARTISAN": 120
             },
@@ -250029,11 +249844,6 @@
                 "votes": 120,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 5886,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250044,17 +249854,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 2983,
-            "rep_votes": 25804,
+            "rep_votes": 13024,
             "other_votes": 326,
-            "total_votes": 29113,
-            "two_party_total": 28787,
-            "margin": 22821,
-            "margin_pct": "R+78.39",
+            "total_votes": 16333,
+            "two_party_total": 16007,
+            "margin": 10041,
+            "margin_pct": "R+61.48",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 25804,
+            "winner_votes": 13024,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -250063,7 +249873,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 2983,
-              "REPUBLICAN": 25804,
+              "REPUBLICAN": 13024,
               "INDEPENDENT": 108,
               "NONPARTISAN": 218
             },
@@ -250097,11 +249907,6 @@
                 "votes": 218,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 12780,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250112,26 +249917,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 25798,
-            "rep_votes": 96413,
+            "rep_votes": 46020,
             "other_votes": 4785,
-            "total_votes": 126996,
-            "two_party_total": 122211,
-            "margin": 70615,
-            "margin_pct": "R+55.60",
+            "total_votes": 76603,
+            "two_party_total": 71818,
+            "margin": 20222,
+            "margin_pct": "R+26.40",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 96413,
+            "winner_votes": 46020,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 25798,
-              "REPUBLICAN": 96413,
+              "REPUBLICAN": 46020,
               "INDEPENDENT": 877,
               "NONPARTISAN": 3908
             },
@@ -250165,11 +249970,6 @@
                 "votes": 3908,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 50393,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250180,17 +249980,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 14581,
-            "rep_votes": 77672,
+            "rep_votes": 37887,
             "other_votes": 3502,
-            "total_votes": 95755,
-            "two_party_total": 92253,
-            "margin": 63091,
-            "margin_pct": "R+65.89",
+            "total_votes": 55970,
+            "two_party_total": 52468,
+            "margin": 23306,
+            "margin_pct": "R+41.64",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 77672,
+            "winner_votes": 37887,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -250199,7 +249999,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 14581,
-              "REPUBLICAN": 77672,
+              "REPUBLICAN": 37887,
               "INDEPENDENT": 628,
               "NONPARTISAN": 2874
             },
@@ -250233,11 +250033,6 @@
                 "votes": 2874,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 39785,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250248,26 +250043,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3867,
-            "rep_votes": 3597,
+            "rep_votes": 1758,
             "other_votes": 175,
-            "total_votes": 7639,
-            "two_party_total": 7464,
-            "margin": 270,
-            "margin_pct": "D+3.53",
+            "total_votes": 5800,
+            "two_party_total": 5625,
+            "margin": 2109,
+            "margin_pct": "D+36.36",
             "winner": "DEMOCRAT",
             "winner_name": "Kamala D. Harris",
             "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
             "winner_votes": 3867,
             "competitiveness": {
-              "category": "Lean",
+              "category": "Dominant",
               "party": "DEMOCRAT",
-              "code": "DEMOCRAT_LEAN",
-              "color": "#c6dbef"
+              "code": "DEMOCRAT_DOMINANT",
+              "color": "#08519c"
             },
             "all_parties": {
               "DEMOCRAT": 3867,
-              "REPUBLICAN": 3597,
+              "REPUBLICAN": 1758,
               "INDEPENDENT": 27,
               "NONPARTISAN": 148
             },
@@ -250301,11 +250096,6 @@
                 "votes": 148,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 1839,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250316,26 +250106,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 6084,
-            "rep_votes": 3808,
+            "rep_votes": 1682,
             "other_votes": 456,
-            "total_votes": 10348,
-            "two_party_total": 9892,
-            "margin": 2276,
-            "margin_pct": "D+21.99",
+            "total_votes": 8222,
+            "two_party_total": 7766,
+            "margin": 4402,
+            "margin_pct": "D+53.54",
             "winner": "DEMOCRAT",
             "winner_name": "Kamala D. Harris",
             "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
             "winner_votes": 6084,
             "competitiveness": {
-              "category": "Stronghold",
+              "category": "Annihilation",
               "party": "DEMOCRAT",
-              "code": "DEMOCRAT_STRONGHOLD",
-              "color": "#3182bd"
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
             },
             "all_parties": {
               "DEMOCRAT": 6084,
-              "REPUBLICAN": 3808,
+              "REPUBLICAN": 1682,
               "INDEPENDENT": 54,
               "NONPARTISAN": 402
             },
@@ -250369,11 +250159,6 @@
                 "votes": 402,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 2126,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250384,26 +250169,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 87824,
-            "rep_votes": 226566,
+            "rep_votes": 105430,
             "other_votes": 17245,
-            "total_votes": 331635,
-            "two_party_total": 314390,
-            "margin": 138742,
-            "margin_pct": "R+41.84",
+            "total_votes": 210499,
+            "two_party_total": 193254,
+            "margin": 17606,
+            "margin_pct": "R+8.36",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 226566,
+            "winner_votes": 105430,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Likely",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_LIKELY",
+              "color": "#fb6a4a"
             },
             "all_parties": {
               "DEMOCRAT": 87824,
-              "REPUBLICAN": 226566,
+              "REPUBLICAN": 105430,
               "INDEPENDENT": 3101,
               "NONPARTISAN": 14144
             },
@@ -250437,11 +250222,6 @@
                 "votes": 14144,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 121136,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250452,26 +250232,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4631,
-            "rep_votes": 9971,
+            "rep_votes": 4995,
             "other_votes": 273,
-            "total_votes": 14875,
-            "two_party_total": 14602,
-            "margin": 5340,
-            "margin_pct": "R+35.90",
+            "total_votes": 9899,
+            "two_party_total": 9626,
+            "margin": 364,
+            "margin_pct": "R+3.68",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 9971,
+            "winner_votes": 4995,
             "competitiveness": {
-              "category": "Dominant",
+              "category": "Lean",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_DOMINANT",
-              "color": "#a50f15"
+              "code": "REPUBLICAN_LEAN",
+              "color": "#fcae91"
             },
             "all_parties": {
               "DEMOCRAT": 4631,
-              "REPUBLICAN": 9971,
+              "REPUBLICAN": 4995,
               "INDEPENDENT": 47,
               "NONPARTISAN": 226
             },
@@ -250505,11 +250285,6 @@
                 "votes": 226,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 4976,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250520,17 +250295,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1197,
-            "rep_votes": 24214,
+            "rep_votes": 12245,
             "other_votes": 297,
-            "total_votes": 25708,
-            "two_party_total": 25411,
-            "margin": 23017,
-            "margin_pct": "R+89.53",
+            "total_votes": 13739,
+            "two_party_total": 13442,
+            "margin": 11048,
+            "margin_pct": "R+80.41",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 24214,
+            "winner_votes": 12245,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -250539,7 +250314,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1197,
-              "REPUBLICAN": 24214,
+              "REPUBLICAN": 12245,
               "INDEPENDENT": 81,
               "NONPARTISAN": 216
             },
@@ -250573,11 +250348,6 @@
                 "votes": 216,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 11969,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250588,17 +250358,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 5553,
-            "rep_votes": 68876,
+            "rep_votes": 34434,
             "other_votes": 1374,
-            "total_votes": 75803,
-            "two_party_total": 74429,
-            "margin": 63323,
-            "margin_pct": "R+83.54",
+            "total_votes": 41361,
+            "two_party_total": 39987,
+            "margin": 28881,
+            "margin_pct": "R+69.83",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 68876,
+            "winner_votes": 34434,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -250607,7 +250377,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 5553,
-              "REPUBLICAN": 68876,
+              "REPUBLICAN": 34434,
               "INDEPENDENT": 290,
               "NONPARTISAN": 1084
             },
@@ -250641,11 +250411,6 @@
                 "votes": 1084,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 34442,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250656,26 +250421,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 72055,
-            "rep_votes": 209175,
+            "rep_votes": 100759,
             "other_votes": 11153,
-            "total_votes": 292383,
-            "two_party_total": 281230,
-            "margin": 137120,
-            "margin_pct": "R+46.90",
+            "total_votes": 183967,
+            "two_party_total": 172814,
+            "margin": 28704,
+            "margin_pct": "R+15.60",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 209175,
+            "winner_votes": 100759,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Safe",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
             },
             "all_parties": {
               "DEMOCRAT": 72055,
-              "REPUBLICAN": 209175,
+              "REPUBLICAN": 100759,
               "INDEPENDENT": 1731,
               "NONPARTISAN": 9422
             },
@@ -250709,11 +250474,6 @@
                 "votes": 9422,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 108416,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250724,26 +250484,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3740,
-            "rep_votes": 12036,
+            "rep_votes": 6007,
             "other_votes": 268,
-            "total_votes": 16044,
-            "two_party_total": 15776,
-            "margin": 8296,
-            "margin_pct": "R+51.71",
+            "total_votes": 10015,
+            "two_party_total": 9747,
+            "margin": 2267,
+            "margin_pct": "R+22.64",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 12036,
+            "winner_votes": 6007,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 3740,
-              "REPUBLICAN": 12036,
+              "REPUBLICAN": 6007,
               "INDEPENDENT": 52,
               "NONPARTISAN": 216
             },
@@ -250777,11 +250537,6 @@
                 "votes": 216,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 6029,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250792,26 +250547,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 57946,
-            "rep_votes": 68014,
+            "rep_votes": 30477,
             "other_votes": 7272,
-            "total_votes": 133232,
-            "two_party_total": 125960,
-            "margin": 10068,
-            "margin_pct": "R+7.56",
-            "winner": "REPUBLICAN",
-            "winner_name": "Donald J. Trump",
-            "winner_party": "REPUBLICAN",
+            "total_votes": 95695,
+            "two_party_total": 88423,
+            "margin": 27469,
+            "margin_pct": "D+28.70",
+            "winner": "DEMOCRAT",
+            "winner_name": "Kamala D. Harris",
+            "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
-            "winner_votes": 68014,
+            "winner_votes": 57946,
             "competitiveness": {
-              "category": "Likely",
-              "party": "REPUBLICAN",
-              "code": "REPUBLICAN_LIKELY",
-              "color": "#fb6a4a"
+              "category": "Stronghold",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_STRONGHOLD",
+              "color": "#3182bd"
             },
             "all_parties": {
               "DEMOCRAT": 57946,
-              "REPUBLICAN": 68014,
+              "REPUBLICAN": 30477,
               "INDEPENDENT": 952,
               "NONPARTISAN": 6320
             },
@@ -250845,11 +250600,6 @@
                 "votes": 6320,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 37537,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250860,17 +250610,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 12392,
-            "rep_votes": 81875,
+            "rep_votes": 40449,
             "other_votes": 2144,
-            "total_votes": 96411,
-            "two_party_total": 94267,
-            "margin": 69483,
-            "margin_pct": "R+72.07",
+            "total_votes": 54985,
+            "two_party_total": 52841,
+            "margin": 28057,
+            "margin_pct": "R+51.03",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 81875,
+            "winner_votes": 40449,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -250879,7 +250629,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 12392,
-              "REPUBLICAN": 81875,
+              "REPUBLICAN": 40449,
               "INDEPENDENT": 528,
               "NONPARTISAN": 1616
             },
@@ -250913,11 +250663,6 @@
                 "votes": 1616,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 41426,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250928,26 +250673,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3174,
-            "rep_votes": 2582,
+            "rep_votes": 1269,
             "other_votes": 90,
-            "total_votes": 5846,
-            "two_party_total": 5756,
-            "margin": 592,
-            "margin_pct": "D+10.13",
+            "total_votes": 4533,
+            "two_party_total": 4443,
+            "margin": 1905,
+            "margin_pct": "D+42.03",
             "winner": "DEMOCRAT",
             "winner_name": "Kamala D. Harris",
             "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
             "winner_votes": 3174,
             "competitiveness": {
-              "category": "Safe",
+              "category": "Annihilation",
               "party": "DEMOCRAT",
-              "code": "DEMOCRAT_SAFE",
-              "color": "#6baed6"
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
             },
             "all_parties": {
               "DEMOCRAT": 3174,
-              "REPUBLICAN": 2582,
+              "REPUBLICAN": 1269,
               "INDEPENDENT": 14,
               "NONPARTISAN": 76
             },
@@ -250981,11 +250726,6 @@
                 "votes": 76,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 1313,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -250996,26 +250736,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3388,
-            "rep_votes": 11105,
+            "rep_votes": 5465,
             "other_votes": 215,
-            "total_votes": 14708,
-            "two_party_total": 14493,
-            "margin": 7717,
-            "margin_pct": "R+52.47",
+            "total_votes": 9068,
+            "two_party_total": 8853,
+            "margin": 2077,
+            "margin_pct": "R+22.90",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 11105,
+            "winner_votes": 5465,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 3388,
-              "REPUBLICAN": 11105,
+              "REPUBLICAN": 5465,
               "INDEPENDENT": 45,
               "NONPARTISAN": 170
             },
@@ -251049,11 +250789,6 @@
                 "votes": 170,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 5640,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251064,26 +250799,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4899,
-            "rep_votes": 17014,
+            "rep_votes": 8224,
             "other_votes": 515,
-            "total_votes": 22428,
-            "two_party_total": 21913,
-            "margin": 12115,
-            "margin_pct": "R+54.02",
+            "total_votes": 13638,
+            "two_party_total": 13123,
+            "margin": 3325,
+            "margin_pct": "R+24.38",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 17014,
+            "winner_votes": 8224,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Stronghold",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
             },
             "all_parties": {
               "DEMOCRAT": 4899,
-              "REPUBLICAN": 17014,
+              "REPUBLICAN": 8224,
               "INDEPENDENT": 91,
               "NONPARTISAN": 424
             },
@@ -251117,11 +250852,6 @@
                 "votes": 424,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 8790,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251132,17 +250862,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1920,
-            "rep_votes": 17991,
+            "rep_votes": 9102,
             "other_votes": 281,
-            "total_votes": 20192,
-            "two_party_total": 19911,
-            "margin": 16071,
-            "margin_pct": "R+79.59",
+            "total_votes": 11303,
+            "two_party_total": 11022,
+            "margin": 7182,
+            "margin_pct": "R+63.54",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 17991,
+            "winner_votes": 9102,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251151,7 +250881,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1920,
-              "REPUBLICAN": 17991,
+              "REPUBLICAN": 9102,
               "INDEPENDENT": 53,
               "NONPARTISAN": 228
             },
@@ -251185,11 +250915,6 @@
                 "votes": 228,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 8889,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251200,26 +250925,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 10422,
-            "rep_votes": 21617,
+            "rep_votes": 10078,
             "other_votes": 1217,
-            "total_votes": 33256,
-            "two_party_total": 32039,
-            "margin": 11195,
-            "margin_pct": "R+33.66",
-            "winner": "REPUBLICAN",
-            "winner_name": "Donald J. Trump",
-            "winner_party": "REPUBLICAN",
+            "total_votes": 21717,
+            "two_party_total": 20500,
+            "margin": 344,
+            "margin_pct": "D+1.58",
+            "winner": "DEMOCRAT",
+            "winner_name": "Kamala D. Harris",
+            "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
-            "winner_votes": 21617,
+            "winner_votes": 10422,
             "competitiveness": {
-              "category": "Dominant",
-              "party": "REPUBLICAN",
-              "code": "REPUBLICAN_DOMINANT",
-              "color": "#a50f15"
+              "category": "Lean",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LEAN",
+              "color": "#c6dbef"
             },
             "all_parties": {
               "DEMOCRAT": 10422,
-              "REPUBLICAN": 21617,
+              "REPUBLICAN": 10078,
               "INDEPENDENT": 179,
               "NONPARTISAN": 1038
             },
@@ -251253,11 +250978,6 @@
                 "votes": 1038,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 11539,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251268,26 +250988,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 33087,
-            "rep_votes": 164752,
+            "rep_votes": 79666,
             "other_votes": 8242,
-            "total_votes": 206081,
-            "two_party_total": 197839,
-            "margin": 131665,
-            "margin_pct": "R+63.89",
+            "total_votes": 120995,
+            "two_party_total": 112753,
+            "margin": 46579,
+            "margin_pct": "R+38.50",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 164752,
+            "winner_votes": 79666,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Dominant",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
             },
             "all_parties": {
               "DEMOCRAT": 33087,
-              "REPUBLICAN": 164752,
+              "REPUBLICAN": 79666,
               "INDEPENDENT": 1290,
               "NONPARTISAN": 6952
             },
@@ -251321,11 +251041,6 @@
                 "votes": 6952,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 85086,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251336,17 +251051,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 7640,
-            "rep_votes": 71401,
+            "rep_votes": 35501,
             "other_votes": 1007,
-            "total_votes": 80048,
-            "two_party_total": 79041,
-            "margin": 63761,
-            "margin_pct": "R+79.65",
+            "total_votes": 44148,
+            "two_party_total": 43141,
+            "margin": 27861,
+            "margin_pct": "R+63.11",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 71401,
+            "winner_votes": 35501,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251355,7 +251070,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 7640,
-              "REPUBLICAN": 71401,
+              "REPUBLICAN": 35501,
               "INDEPENDENT": 299,
               "NONPARTISAN": 708
             },
@@ -251389,11 +251104,6 @@
                 "votes": 708,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 35900,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251404,26 +251114,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3725,
-            "rep_votes": 3210,
+            "rep_votes": 1542,
             "other_votes": 144,
-            "total_votes": 7079,
-            "two_party_total": 6935,
-            "margin": 515,
-            "margin_pct": "D+7.28",
+            "total_votes": 5411,
+            "two_party_total": 5267,
+            "margin": 2183,
+            "margin_pct": "D+40.34",
             "winner": "DEMOCRAT",
             "winner_name": "Kamala D. Harris",
             "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
             "winner_votes": 3725,
             "competitiveness": {
-              "category": "Likely",
+              "category": "Annihilation",
               "party": "DEMOCRAT",
-              "code": "DEMOCRAT_LIKELY",
-              "color": "#9ecae1"
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
             },
             "all_parties": {
               "DEMOCRAT": 3725,
-              "REPUBLICAN": 3210,
+              "REPUBLICAN": 1542,
               "INDEPENDENT": 30,
               "NONPARTISAN": 114
             },
@@ -251457,11 +251167,6 @@
                 "votes": 114,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 1668,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251472,26 +251177,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 10898,
-            "rep_votes": 45185,
+            "rep_votes": 22100,
             "other_votes": 1319,
-            "total_votes": 57402,
-            "two_party_total": 56083,
-            "margin": 34287,
-            "margin_pct": "R+59.73",
+            "total_votes": 34317,
+            "two_party_total": 32998,
+            "margin": 11202,
+            "margin_pct": "R+32.64",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 45185,
+            "winner_votes": 22100,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Dominant",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
             },
             "all_parties": {
               "DEMOCRAT": 10898,
-              "REPUBLICAN": 45185,
+              "REPUBLICAN": 22100,
               "INDEPENDENT": 177,
               "NONPARTISAN": 1142
             },
@@ -251525,11 +251230,6 @@
                 "votes": 1142,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 23085,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251540,17 +251240,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4975,
-            "rep_votes": 29865,
+            "rep_votes": 14884,
             "other_votes": 717,
-            "total_votes": 35557,
-            "two_party_total": 34840,
-            "margin": 24890,
-            "margin_pct": "R+70.00",
+            "total_votes": 20576,
+            "two_party_total": 19859,
+            "margin": 9909,
+            "margin_pct": "R+48.16",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 29865,
+            "winner_votes": 14884,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251559,7 +251259,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 4975,
-              "REPUBLICAN": 29865,
+              "REPUBLICAN": 14884,
               "INDEPENDENT": 121,
               "NONPARTISAN": 596
             },
@@ -251593,11 +251293,6 @@
                 "votes": 596,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 14981,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251608,26 +251303,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 33399,
-            "rep_votes": 105758,
+            "rep_votes": 50724,
             "other_votes": 5142,
-            "total_votes": 144299,
-            "two_party_total": 139157,
-            "margin": 72359,
-            "margin_pct": "R+50.15",
+            "total_votes": 89265,
+            "two_party_total": 84123,
+            "margin": 17325,
+            "margin_pct": "R+19.41",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 105758,
+            "winner_votes": 50724,
             "competitiveness": {
-              "category": "Annihilation",
+              "category": "Safe",
               "party": "REPUBLICAN",
-              "code": "REPUBLICAN_ANNIHILATION",
-              "color": "#67000d"
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
             },
             "all_parties": {
               "DEMOCRAT": 33399,
-              "REPUBLICAN": 105758,
+              "REPUBLICAN": 50724,
               "INDEPENDENT": 756,
               "NONPARTISAN": 4386
             },
@@ -251661,11 +251356,6 @@
                 "votes": 4386,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 55034,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251676,17 +251366,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 4102,
-            "rep_votes": 50810,
+            "rep_votes": 25464,
             "other_votes": 939,
-            "total_votes": 55851,
-            "two_party_total": 54912,
-            "margin": 46708,
-            "margin_pct": "R+83.63",
+            "total_votes": 30505,
+            "two_party_total": 29566,
+            "margin": 21362,
+            "margin_pct": "R+70.03",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 50810,
+            "winner_votes": 25464,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251695,7 +251385,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 4102,
-              "REPUBLICAN": 50810,
+              "REPUBLICAN": 25464,
               "INDEPENDENT": 181,
               "NONPARTISAN": 758
             },
@@ -251729,11 +251419,6 @@
                 "votes": 758,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 25346,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251744,17 +251429,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 1863,
-            "rep_votes": 12912,
+            "rep_votes": 6534,
             "other_votes": 171,
-            "total_votes": 14946,
-            "two_party_total": 14775,
-            "margin": 11049,
-            "margin_pct": "R+73.93",
+            "total_votes": 8568,
+            "two_party_total": 8397,
+            "margin": 4671,
+            "margin_pct": "R+54.52",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 12912,
+            "winner_votes": 6534,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251763,7 +251448,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 1863,
-              "REPUBLICAN": 12912,
+              "REPUBLICAN": 6534,
               "INDEPENDENT": 33,
               "NONPARTISAN": 138
             },
@@ -251797,11 +251482,6 @@
                 "votes": 138,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 6378,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251812,26 +251492,26 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 3449,
-            "rep_votes": 3614,
+            "rep_votes": 1793,
             "other_votes": 88,
-            "total_votes": 7151,
-            "two_party_total": 7063,
-            "margin": 165,
-            "margin_pct": "R+2.31",
-            "winner": "REPUBLICAN",
-            "winner_name": "Donald J. Trump",
-            "winner_party": "REPUBLICAN",
+            "total_votes": 5330,
+            "two_party_total": 5242,
+            "margin": 1656,
+            "margin_pct": "D+31.07",
+            "winner": "DEMOCRAT",
+            "winner_name": "Kamala D. Harris",
+            "winner_party": "DEMOCRAT",
             "winner_incumbent": false,
-            "winner_votes": 3614,
+            "winner_votes": 3449,
             "competitiveness": {
-              "category": "Lean",
-              "party": "REPUBLICAN",
-              "code": "REPUBLICAN_LEAN",
-              "color": "#fcae91"
+              "category": "Dominant",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_DOMINANT",
+              "color": "#08519c"
             },
             "all_parties": {
               "DEMOCRAT": 3449,
-              "REPUBLICAN": 3614,
+              "REPUBLICAN": 1793,
               "INDEPENDENT": 18,
               "NONPARTISAN": 70
             },
@@ -251860,11 +251540,6 @@
                 "votes": 70,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 1821,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251875,17 +251550,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 884,
-            "rep_votes": 20199,
+            "rep_votes": 10191,
             "other_votes": 198,
-            "total_votes": 21281,
-            "two_party_total": 21083,
-            "margin": 19315,
-            "margin_pct": "R+90.76",
+            "total_votes": 11273,
+            "two_party_total": 11075,
+            "margin": 9307,
+            "margin_pct": "R+82.56",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 20199,
+            "winner_votes": 10191,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251894,7 +251569,7 @@
             },
             "all_parties": {
               "DEMOCRAT": 884,
-              "REPUBLICAN": 20199,
+              "REPUBLICAN": 10191,
               "INDEPENDENT": 54,
               "NONPARTISAN": 144
             },
@@ -251928,11 +251603,6 @@
                 "votes": 144,
                 "party": "NONPARTISAN",
                 "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 10008,
-                "party": "REPUBLICAN",
-                "incumbent": false
               }
             },
             "contest": "President",
@@ -251943,17 +251613,17 @@
             "dem_candidate": "Kamala D. Harris",
             "rep_candidate": "Donald J. Trump",
             "dem_votes": 10326,
-            "rep_votes": 66028,
+            "rep_votes": 32708,
             "other_votes": 1143,
-            "total_votes": 77497,
-            "two_party_total": 76354,
-            "margin": 55702,
-            "margin_pct": "R+71.88",
+            "total_votes": 44177,
+            "two_party_total": 43034,
+            "margin": 22382,
+            "margin_pct": "R+50.66",
             "winner": "REPUBLICAN",
             "winner_name": "Donald J. Trump",
             "winner_party": "REPUBLICAN",
             "winner_incumbent": false,
-            "winner_votes": 66028,
+            "winner_votes": 32708,
             "competitiveness": {
               "category": "Annihilation",
               "party": "REPUBLICAN",
@@ -251962,7 +251632,7 @@
             },
             "all_parties": {
               "INDEPENDENT": 420,
-              "REPUBLICAN": 66028,
+              "REPUBLICAN": 32708,
               "DEMOCRAT": 10326,
               "NONPARTISAN": 723
             },
@@ -251990,11 +251660,6 @@
               "Robert F. Kennedy Jr.": {
                 "votes": 265,
                 "party": "INDEPENDENT",
-                "incumbent": false
-              },
-              "Twinkle Andress Cavanaugh": {
-                "votes": 33320,
-                "party": "REPUBLICAN",
                 "incumbent": false
               },
               "Write-ins": {

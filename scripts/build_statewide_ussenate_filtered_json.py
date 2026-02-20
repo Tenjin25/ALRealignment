@@ -164,6 +164,12 @@ AGGREGATE_CANDIDATE_LABELS = {
     "STATE TOTAL",
 }
 
+# Known bad rows in normalized presidential office extracts.
+# 2024 file includes a non-presidential candidate mixed into president rows.
+PRESIDENT_CANDIDATE_EXCLUDES = {
+    ("2024", "TWINKLE ANDRESS CAVANAUGH"),
+}
+
 
 def normalize_county_name(name: str) -> str:
     s = re.sub(r"[^A-Za-z ]+", " ", name).strip().upper()
@@ -256,6 +262,11 @@ def parse_int(v: Any) -> int | None:
 def is_aggregate_candidate(name: str) -> bool:
     n = normalize_candidate_name(name).upper().strip()
     return n in AGGREGATE_CANDIDATE_LABELS
+
+
+def is_excluded_president_candidate(year: str, candidate: str) -> bool:
+    n = normalize_candidate_name(candidate).upper().strip()
+    return (str(year), n) in PRESIDENT_CANDIDATE_EXCLUDES
 
 
 def party_name(code: str, candidate: str) -> str:
@@ -616,6 +627,8 @@ def load_president_rows_from_office_csvs() -> list[dict[str, Any]]:
             candidate_raw = str(r["candidate"]).strip()
             party_code_raw = str(r["party"]).strip().upper()
             candidate, party_code = split_candidate_and_party(candidate_raw, party_code_raw)
+            if is_excluded_president_candidate(str(year), candidate):
+                continue
             if is_aggregate_candidate(candidate):
                 continue
             votes = parse_int(r["votes"])
@@ -782,6 +795,10 @@ def main() -> None:
     by_key: dict[tuple[str, str, str], list[dict[str, Any]]] = defaultdict(list)
     seen_rows: set[tuple[str, str, str, str, str, str, int]] = set()
     for r in all_rows:
+        if str(r.get("contest_key", "")) == "president" and is_excluded_president_candidate(
+            str(r.get("year", "")), str(r.get("candidate", ""))
+        ):
+            continue
         county = canonical_county(r.get("county", ""))
         if not county:
             continue
