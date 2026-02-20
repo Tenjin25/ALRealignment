@@ -9,9 +9,10 @@ from typing import Any
 import pandas as pd
 
 
-BASE_JSON = Path("results_by_year_grouped.final.json")
-OUTPUT_JSON = Path("results_by_year_grouped.statewide_plus_ussenate_1968_2026.json")
+BASE_JSON = Path("data/results_by_year_grouped.final.json")
+OUTPUT_JSON = Path("data/results_by_year_grouped.statewide_plus_ussenate_1968_2026.json")
 PRESIDENT_CSV_DIR = Path("data/openelections")
+PRESIDENT_OFFICE_CSV_DIR = Path("data/openelections_office_normalized_2016_2024")
 US_SENATE_CSV_DIR = Path("data/openelections_office_normalized")
 
 DATA_DIR = Path("data")
@@ -88,6 +89,14 @@ COUNTIES = {
     "WINSTON",
 }
 
+COUNTY_CANONICAL_BY_COMPACT = {c.replace(" ", ""): c for c in COUNTIES}
+COUNTY_ALIASES_COMPACT = {
+    "STCLAIR": "ST CLAIR",
+    "STCLAIRCOUNTY": "ST CLAIR",
+    "SAINTCLAIR": "ST CLAIR",
+    "SAINTCLAIRCOUNTY": "ST CLAIR",
+}
+
 PARTY_CODE_TO_NAME = {
     "D": "DEMOCRAT",
     "DEM": "DEMOCRAT",
@@ -95,6 +104,7 @@ PARTY_CODE_TO_NAME = {
     "R": "REPUBLICAN",
     "REP": "REPUBLICAN",
     "REPUBLICAN": "REPUBLICAN",
+    "AR": "REPUBLICAN",
     "L": "LIBERTARIAN",
     "LIB": "LIBERTARIAN",
     "LIBERTARIAN": "LIBERTARIAN",
@@ -131,12 +141,27 @@ NAME_OVERRIDES = {
     ("president", "2004", "KERRY"): "John Kerry",
     ("us_senate", "2004", "SHELBY"): "Richard Shelby",
     ("us_senate", "2004", "SOWELL"): "Wayne Sowell",
+    ("us_senate", "2010", "BARNES"): "William G. Barnes",
+    ("us_senate", "2010", "SHELBY"): "Richard Shelby",
     ("governor", "2006", "RILEY"): "Bob Riley",
     ("governor", "2006", "BAXLEY"): "Lucy Baxley",
+    ("commissioner_of_agriculture", "2006", "SPARKS"): "Ron Sparks",
+    ("commissioner_of_agriculture", "2006", "LIPSCOMB"): "Nathan Lipscomb",
+    ("commissioner_of_agriculture", "2010", "ZORN"): "Glen Zorn",
+    ("commissioner_of_agriculture", "2010", "MCMILLAN"): "John McMillan",
     ("attorney_general", "2010", "STRANGE"): "Luther Strange",
     ("attorney_general", "2010", "ANDERSON"): "James H. Anderson",
     ("lieutenant_governor", "2010", "IVEY"): "Kay Ivey",
     ("lieutenant_governor", "2010", "FOLSOM"): "Jim Folsom Jr.",
+}
+
+AGGREGATE_CANDIDATE_LABELS = {
+    "TOTAL",
+    "TOTALS",
+    "MARGIN",
+    "CALCULATED",
+    "REPORTED",
+    "STATE TOTAL",
 }
 
 
@@ -147,18 +172,31 @@ def normalize_county_name(name: str) -> str:
 
 
 def canonical_county(name: str) -> str:
-    s = str(name).strip()
-    if not s:
+    raw = str(name).strip()
+    if not raw:
         return ""
-    if s.lower() in {"total", "margin", "state total"}:
+    if raw.lower() in {"total", "margin", "state total"}:
         return ""
-    return s.title()
+    norm = normalize_county_name(raw)
+    compact = norm.replace(" ", "")
+    if compact in COUNTY_ALIASES_COMPACT:
+        return COUNTY_ALIASES_COMPACT[compact].title()
+    if compact in COUNTY_CANONICAL_BY_COMPACT:
+        return COUNTY_CANONICAL_BY_COMPACT[compact].title()
+    # Explicitly reject non-county rows (e.g., totals/certified lines)
+    if any(tok in compact for tok in ("TOTAL", "CERTIFIED", "MARGIN", "STATEWIDE")):
+        return ""
+    return ""
 
 
 def county_from_path(path: Path) -> str | None:
     text = normalize_county_name(path.stem.replace("-", " ").replace("_", " "))
+    compact_text = text.replace(" ", "")
+    for alias_compact, canonical in COUNTY_ALIASES_COMPACT.items():
+        if alias_compact in compact_text:
+            return canonical.title()
     for c in COUNTIES:
-        if c in text:
+        if c.replace(" ", "") in compact_text:
             return c.title()
     return None
 
@@ -213,6 +251,11 @@ def parse_int(v: Any) -> int | None:
     if not n.is_integer():
         return None
     return int(n)
+
+
+def is_aggregate_candidate(name: str) -> bool:
+    n = normalize_candidate_name(name).upper().strip()
+    return n in AGGREGATE_CANDIDATE_LABELS
 
 
 def party_name(code: str, candidate: str) -> str:
@@ -382,6 +425,8 @@ def parse_precinct_workbook(path: Path) -> list[dict[str, Any]]:
 
         p = str(r.get(party_col, "") if party_col else "").strip()
         candidate, parsed_code = split_candidate_and_party(candidate, p)
+        if is_aggregate_candidate(candidate):
+            continue
         p_name = party_name(parsed_code, candidate)
 
         votes = None
@@ -526,11 +571,55 @@ def load_president_rows_from_csvs() -> list[dict[str, Any]]:
             candidate_raw = str(r["candidate"]).strip()
             party_code_raw = str(r["party"]).strip().upper()
             candidate, party_code = split_candidate_and_party(candidate_raw, party_code_raw)
+            if is_aggregate_candidate(candidate):
+                continue
             votes = parse_int(r["votes"])
             if votes is None or votes <= 0:
                 continue
             # Skip aggregate rows like "President" with blank party.
             if candidate.upper() in {"PRESIDENT", "TOTAL", "TOTALS"} and not party_code:
+                continue
+            rows.append(
+                {
+                    "year": str(year),
+                    "contest_key": "president",
+                    "contest_name": "President",
+                    "county": county,
+                    "party": party_name(party_code, candidate),
+                    "candidate": "Write-ins" if candidate.upper() in {"WRITE-IN", "WRITE INS", "WRITE-INS"} else candidate,
+                    "votes": votes,
+                }
+            )
+    return rows
+
+
+def load_president_rows_from_office_csvs() -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for p in sorted(PRESIDENT_OFFICE_CSV_DIR.glob("*__al__general__county__president*.csv")):
+        m = re.match(r"^(\d{8})__al__general__county__president(?:__\d+)?\.csv$", p.name)
+        if not m:
+            continue
+        year = int(m.group(1)[:4])
+        if not (YEAR_MIN <= year <= YEAR_MAX):
+            continue
+        try:
+            df = pd.read_csv(p, dtype=str).fillna("")
+        except Exception:
+            continue
+        need = {"county", "party", "candidate", "votes"}
+        if not need.issubset(df.columns):
+            continue
+        for _, r in df.iterrows():
+            county = canonical_county(str(r["county"]))
+            if not county:
+                continue
+            candidate_raw = str(r["candidate"]).strip()
+            party_code_raw = str(r["party"]).strip().upper()
+            candidate, party_code = split_candidate_and_party(candidate_raw, party_code_raw)
+            if is_aggregate_candidate(candidate):
+                continue
+            votes = parse_int(r["votes"])
+            if votes is None or votes <= 0:
                 continue
             rows.append(
                 {
@@ -569,6 +658,8 @@ def load_ussenate_rows_from_csvs() -> list[dict[str, Any]]:
             candidate_raw = str(r["candidate"]).strip()
             party_code_raw = str(r["party"]).strip().upper()
             candidate, party_code = split_candidate_and_party(candidate_raw, party_code_raw)
+            if is_aggregate_candidate(candidate):
+                continue
             votes = parse_int(r["votes"])
             if votes is None or votes <= 0:
                 continue
@@ -577,6 +668,67 @@ def load_ussenate_rows_from_csvs() -> list[dict[str, Any]]:
                     "year": str(year),
                     "contest_key": "us_senate",
                     "contest_name": "U.S. Senate",
+                    "county": county,
+                    "party": party_name(party_code, candidate),
+                    "candidate": "Write-ins" if candidate.upper() in {"WRITE-IN", "WRITE INS", "WRITE-INS"} else candidate,
+                    "votes": votes,
+                }
+            )
+    return rows
+
+
+OFFICE_SLUG_TO_CONTEST = {
+    "governor": ("governor", "Governor"),
+    "ltgovernor": ("lieutenant_governor", "Lieutenant Governor"),
+    "attorneygeneral": ("attorney_general", "Attorney General"),
+    "secretaryofstate": ("secretary_of_state", "Secretary of State"),
+    "treasurer": ("state_treasurer", "State Treasurer"),
+    "auditor": ("state_auditor", "State Auditor"),
+    "commissionerag": ("commissioner_of_agriculture", "Commissioner of Agriculture"),
+    "commofagricultureindustries": ("commissioner_of_agriculture", "Commissioner of Agriculture"),
+    "publicservicecommission": ("public_service_commissioner", "Public Service Commissioner"),
+}
+
+
+def load_statewide_rows_from_office_csvs() -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for p in sorted(US_SENATE_CSV_DIR.glob("*__al__general__county__*.csv")):
+        m = re.match(r"^(\d{8})__al__general__county__([a-z0-9_]+)(?:__\d+)?\.csv$", p.name)
+        if not m:
+            continue
+        year = int(m.group(1)[:4])
+        if not (YEAR_MIN <= year <= YEAR_MAX):
+            continue
+        office_slug = m.group(2).lower()
+        if office_slug not in OFFICE_SLUG_TO_CONTEST:
+            continue
+        contest_key, contest_name = OFFICE_SLUG_TO_CONTEST[office_slug]
+
+        try:
+            df = pd.read_csv(p, dtype=str).fillna("")
+        except Exception:
+            continue
+        need = {"county", "party", "candidate", "votes"}
+        if not need.issubset(df.columns):
+            continue
+
+        for _, r in df.iterrows():
+            county = canonical_county(str(r["county"]))
+            if not county:
+                continue
+            candidate_raw = str(r["candidate"]).strip()
+            party_code_raw = str(r["party"]).strip().upper()
+            candidate, party_code = split_candidate_and_party(candidate_raw, party_code_raw)
+            if is_aggregate_candidate(candidate):
+                continue
+            votes = parse_int(r["votes"])
+            if votes is None or votes <= 0:
+                continue
+            rows.append(
+                {
+                    "year": str(year),
+                    "contest_key": contest_key,
+                    "contest_name": contest_name,
                     "county": county,
                     "party": party_name(party_code, candidate),
                     "candidate": "Write-ins" if candidate.upper() in {"WRITE-IN", "WRITE INS", "WRITE-INS"} else candidate,
@@ -620,11 +772,34 @@ def main() -> None:
 
     # Backfill president from county-level president CSV extracts (1976+ sources).
     all_rows.extend(load_president_rows_from_csvs())
+    # Backfill modern presidential county-general CSV extracts (2016+ sources).
+    all_rows.extend(load_president_rows_from_office_csvs())
     # Backfill U.S. Senate county general-election CSV extracts.
     all_rows.extend(load_ussenate_rows_from_csvs())
+    # Backfill statewide offices from normalized county general-election CSV extracts.
+    all_rows.extend(load_statewide_rows_from_office_csvs())
 
     by_key: dict[tuple[str, str, str], list[dict[str, Any]]] = defaultdict(list)
+    seen_rows: set[tuple[str, str, str, str, str, str, int]] = set()
     for r in all_rows:
+        county = canonical_county(r.get("county", ""))
+        if not county:
+            continue
+        row_sig = (
+            str(r["year"]),
+            str(r["contest_key"]),
+            str(r["contest_name"]),
+            county,
+            str(r["party"]).upper().strip(),
+            normalize_candidate_name(str(r["candidate"])),
+            int(r["votes"]),
+        )
+        if row_sig in seen_rows:
+            continue
+        seen_rows.add(row_sig)
+        r["county"] = county
+        r["candidate"] = normalize_candidate_name(str(r["candidate"]))
+        r["party"] = str(r["party"]).upper().strip()
         by_key[(r["year"], r["contest_key"], r["contest_name"])].append(r)
 
     overlaid = 0
@@ -633,6 +808,11 @@ def main() -> None:
         if ckey == "president" and (yi < 1968 or yi % 4 != 0):
             continue
         payload = build_payload(rows, year, ckey, cname)
+        result_count = len(payload.get("results", {}))
+        # Skip partial presidential overlays; they usually indicate incomplete source files.
+        if ckey == "president" and result_count < 67:
+            print(f"Skipping incomplete presidential overlay {year}: {result_count} counties")
+            continue
         full_key = f"{ckey}_{year}"
         merged.setdefault(year, {})
         merged[year][full_key] = normalize_contest_payload_names(payload, year, ckey)
