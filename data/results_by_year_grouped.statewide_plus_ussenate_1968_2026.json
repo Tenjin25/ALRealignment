@@ -153829,6 +153829,3150 @@
           }
         }
       },
+      "governor_2010": {
+        "contest_name": "Governor",
+        "date": "20100101",
+        "state": "AL",
+        "results": {
+          "Autauga": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5971,
+            "rep_votes": 11943,
+            "other_votes": 120,
+            "total_votes": 18034,
+            "two_party_total": 17914,
+            "margin": 5972,
+            "margin_pct": "R+33.12",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 11943,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5971,
+              "REPUBLICAN": 11943,
+              "NONPARTISAN": 120
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5971,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 11943,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 120,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Autauga",
+            "year": "2010"
+          },
+          "Baldwin": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 12621,
+            "rep_votes": 44126,
+            "other_votes": 957,
+            "total_votes": 57704,
+            "two_party_total": 56747,
+            "margin": 31505,
+            "margin_pct": "R+54.60",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 44126,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 12621,
+              "REPUBLICAN": 44126,
+              "NONPARTISAN": 957
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 12621,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 44126,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 957,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Baldwin",
+            "year": "2010"
+          },
+          "Barbour": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5127,
+            "rep_votes": 3229,
+            "other_votes": 13,
+            "total_votes": 8369,
+            "two_party_total": 8356,
+            "margin": 1898,
+            "margin_pct": "D+22.68",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 5127,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_STRONGHOLD",
+              "color": "#3182bd"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5127,
+              "REPUBLICAN": 3229,
+              "NONPARTISAN": 13
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5127,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3229,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 13,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Barbour",
+            "year": "2010"
+          },
+          "Bibb": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2048,
+            "rep_votes": 4384,
+            "other_votes": 42,
+            "total_votes": 6474,
+            "two_party_total": 6432,
+            "margin": 2336,
+            "margin_pct": "R+36.08",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4384,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2048,
+              "REPUBLICAN": 4384,
+              "NONPARTISAN": 42
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2048,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4384,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 42,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Bibb",
+            "year": "2010"
+          },
+          "Blount": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3748,
+            "rep_votes": 13024,
+            "other_votes": 84,
+            "total_votes": 16856,
+            "two_party_total": 16772,
+            "margin": 9276,
+            "margin_pct": "R+55.03",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 13024,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3748,
+              "REPUBLICAN": 13024,
+              "NONPARTISAN": 84
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3748,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 13024,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 84,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Blount",
+            "year": "2010"
+          },
+          "Bullock": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3018,
+            "rep_votes": 874,
+            "other_votes": 0,
+            "total_votes": 3892,
+            "two_party_total": 3892,
+            "margin": 2144,
+            "margin_pct": "D+55.09",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3018,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3018,
+              "REPUBLICAN": 874
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3018,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 874,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Bullock",
+            "year": "2010"
+          },
+          "Butler": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3728,
+            "rep_votes": 3358,
+            "other_votes": 20,
+            "total_votes": 7106,
+            "two_party_total": 7086,
+            "margin": 370,
+            "margin_pct": "D+5.21",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3728,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LEAN",
+              "color": "#c6dbef"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3728,
+              "REPUBLICAN": 3358,
+              "NONPARTISAN": 20
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3728,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3358,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 20,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Butler",
+            "year": "2010"
+          },
+          "Calhoun": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 12568,
+            "rep_votes": 21250,
+            "other_votes": 124,
+            "total_votes": 33942,
+            "two_party_total": 33818,
+            "margin": 8682,
+            "margin_pct": "R+25.58",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 21250,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 12568,
+              "REPUBLICAN": 21250,
+              "NONPARTISAN": 124
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 12568,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 21250,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 124,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Calhoun",
+            "year": "2010"
+          },
+          "Chambers": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5296,
+            "rep_votes": 5067,
+            "other_votes": 15,
+            "total_votes": 10378,
+            "two_party_total": 10363,
+            "margin": 229,
+            "margin_pct": "D+2.21",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 5296,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LEAN",
+              "color": "#c6dbef"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5296,
+              "REPUBLICAN": 5067,
+              "NONPARTISAN": 15
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5296,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 5067,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 15,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Chambers",
+            "year": "2010"
+          },
+          "Cherokee": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2901,
+            "rep_votes": 4315,
+            "other_votes": 14,
+            "total_votes": 7230,
+            "two_party_total": 7216,
+            "margin": 1414,
+            "margin_pct": "R+19.56",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4315,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2901,
+              "REPUBLICAN": 4315,
+              "NONPARTISAN": 14
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2901,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4315,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 14,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Cherokee",
+            "year": "2010"
+          },
+          "Chilton": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4034,
+            "rep_votes": 9529,
+            "other_votes": 83,
+            "total_votes": 13646,
+            "two_party_total": 13563,
+            "margin": 5495,
+            "margin_pct": "R+40.27",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 9529,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4034,
+              "REPUBLICAN": 9529,
+              "NONPARTISAN": 83
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4034,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 9529,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 83,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Chilton",
+            "year": "2010"
+          },
+          "Choctaw": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3701,
+            "rep_votes": 2962,
+            "other_votes": 9,
+            "total_votes": 6672,
+            "two_party_total": 6663,
+            "margin": 739,
+            "margin_pct": "D+11.08",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3701,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_SAFE",
+              "color": "#6baed6"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3701,
+              "REPUBLICAN": 2962,
+              "NONPARTISAN": 9
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3701,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 2962,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 9,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Choctaw",
+            "year": "2010"
+          },
+          "Clarke": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5313,
+            "rep_votes": 5369,
+            "other_votes": 33,
+            "total_votes": 10715,
+            "two_party_total": 10682,
+            "margin": 56,
+            "margin_pct": "R+0.52",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 5369,
+            "competitiveness": {
+              "category": "Tilt",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_TILT",
+              "color": "#fee8c8"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5313,
+              "REPUBLICAN": 5369,
+              "NONPARTISAN": 33
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5313,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 5369,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 33,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Clarke",
+            "year": "2010"
+          },
+          "Clay": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2069,
+            "rep_votes": 3248,
+            "other_votes": 10,
+            "total_votes": 5327,
+            "two_party_total": 5317,
+            "margin": 1179,
+            "margin_pct": "R+22.13",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 3248,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2069,
+              "REPUBLICAN": 3248,
+              "NONPARTISAN": 10
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2069,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3248,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 10,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Clay",
+            "year": "2010"
+          },
+          "Cleburne": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 1471,
+            "rep_votes": 3678,
+            "other_votes": 22,
+            "total_votes": 5171,
+            "two_party_total": 5149,
+            "margin": 2207,
+            "margin_pct": "R+42.68",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 3678,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 1471,
+              "REPUBLICAN": 3678,
+              "NONPARTISAN": 22
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 1471,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3678,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 22,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Cleburne",
+            "year": "2010"
+          },
+          "Coffee": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5647,
+            "rep_votes": 9535,
+            "other_votes": 36,
+            "total_votes": 15218,
+            "two_party_total": 15182,
+            "margin": 3888,
+            "margin_pct": "R+25.55",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 9535,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5647,
+              "REPUBLICAN": 9535,
+              "NONPARTISAN": 36
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5647,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 9535,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 36,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Coffee",
+            "year": "2010"
+          },
+          "Colbert": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 7586,
+            "rep_votes": 9181,
+            "other_votes": 33,
+            "total_votes": 16800,
+            "two_party_total": 16767,
+            "margin": 1595,
+            "margin_pct": "R+9.49",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 9181,
+            "competitiveness": {
+              "category": "Likely",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LIKELY",
+              "color": "#fb6a4a"
+            },
+            "all_parties": {
+              "DEMOCRAT": 7586,
+              "REPUBLICAN": 9181,
+              "NONPARTISAN": 33
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 7586,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 9181,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 33,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Colbert",
+            "year": "2010"
+          },
+          "Conecuh": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2982,
+            "rep_votes": 2311,
+            "other_votes": 10,
+            "total_votes": 5303,
+            "two_party_total": 5293,
+            "margin": 671,
+            "margin_pct": "D+12.65",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 2982,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_SAFE",
+              "color": "#6baed6"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2982,
+              "REPUBLICAN": 2311,
+              "NONPARTISAN": 10
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2982,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 2311,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 10,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Conecuh",
+            "year": "2010"
+          },
+          "Coosa": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2342,
+            "rep_votes": 2068,
+            "other_votes": 11,
+            "total_votes": 4421,
+            "two_party_total": 4410,
+            "margin": 274,
+            "margin_pct": "D+6.20",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 2342,
+            "competitiveness": {
+              "category": "Likely",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LIKELY",
+              "color": "#9ecae1"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2342,
+              "REPUBLICAN": 2068,
+              "NONPARTISAN": 11
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2342,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 2068,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 11,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Coosa",
+            "year": "2010"
+          },
+          "Covington": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4328,
+            "rep_votes": 7832,
+            "other_votes": 36,
+            "total_votes": 12196,
+            "two_party_total": 12160,
+            "margin": 3504,
+            "margin_pct": "R+28.73",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 7832,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4328,
+              "REPUBLICAN": 7832,
+              "NONPARTISAN": 36
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4328,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 7832,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 36,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Covington",
+            "year": "2010"
+          },
+          "Crenshaw": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2632,
+            "rep_votes": 2880,
+            "other_votes": 17,
+            "total_votes": 5529,
+            "two_party_total": 5512,
+            "margin": 248,
+            "margin_pct": "R+4.49",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 2880,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LEAN",
+              "color": "#fcae91"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2632,
+              "REPUBLICAN": 2880,
+              "NONPARTISAN": 17
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2632,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 2880,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 17,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Crenshaw",
+            "year": "2010"
+          },
+          "Cullman": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 8803,
+            "rep_votes": 21115,
+            "other_votes": 86,
+            "total_votes": 30004,
+            "two_party_total": 29918,
+            "margin": 12312,
+            "margin_pct": "R+41.03",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 21115,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 8803,
+              "REPUBLICAN": 21115,
+              "NONPARTISAN": 86
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 8803,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 21115,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 86,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Cullman",
+            "year": "2010"
+          },
+          "Dale": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 6093,
+            "rep_votes": 7905,
+            "other_votes": 35,
+            "total_votes": 14033,
+            "two_party_total": 13998,
+            "margin": 1812,
+            "margin_pct": "R+12.91",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 7905,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 6093,
+              "REPUBLICAN": 7905,
+              "NONPARTISAN": 35
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 6093,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 7905,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 35,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Dale",
+            "year": "2010"
+          },
+          "Dallas": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 11118,
+            "rep_votes": 4567,
+            "other_votes": 25,
+            "total_votes": 15710,
+            "two_party_total": 15685,
+            "margin": 6551,
+            "margin_pct": "D+41.70",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 11118,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 11118,
+              "REPUBLICAN": 4567,
+              "NONPARTISAN": 25
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 11118,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4567,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 25,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Dallas",
+            "year": "2010"
+          },
+          "Dekalb": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 9125,
+            "rep_votes": 11289,
+            "other_votes": 0,
+            "total_votes": 20414,
+            "two_party_total": 20414,
+            "margin": 2164,
+            "margin_pct": "R+10.60",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 11289,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 9125,
+              "REPUBLICAN": 11289
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 9125,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 11289,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Dekalb",
+            "year": "2010"
+          },
+          "Elmore": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 8724,
+            "rep_votes": 17439,
+            "other_votes": 164,
+            "total_votes": 26327,
+            "two_party_total": 26163,
+            "margin": 8715,
+            "margin_pct": "R+33.10",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 17439,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 8724,
+              "REPUBLICAN": 17439,
+              "NONPARTISAN": 164
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 8724,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 17439,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 164,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Elmore",
+            "year": "2010"
+          },
+          "Escambia": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4091,
+            "rep_votes": 6487,
+            "other_votes": 76,
+            "total_votes": 10654,
+            "two_party_total": 10578,
+            "margin": 2396,
+            "margin_pct": "R+22.49",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 6487,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4091,
+              "REPUBLICAN": 6487,
+              "NONPARTISAN": 76
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4091,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 6487,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 76,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Escambia",
+            "year": "2010"
+          },
+          "Etowah": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 12710,
+            "rep_votes": 19312,
+            "other_votes": 90,
+            "total_votes": 32112,
+            "two_party_total": 32022,
+            "margin": 6602,
+            "margin_pct": "R+20.56",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 19312,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 12710,
+              "REPUBLICAN": 19312,
+              "NONPARTISAN": 90
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 12710,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 19312,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 90,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Etowah",
+            "year": "2010"
+          },
+          "Fayette": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 1885,
+            "rep_votes": 4200,
+            "other_votes": 17,
+            "total_votes": 6102,
+            "two_party_total": 6085,
+            "margin": 2315,
+            "margin_pct": "R+37.94",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4200,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 1885,
+              "REPUBLICAN": 4200,
+              "NONPARTISAN": 17
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 1885,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4200,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 17,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Fayette",
+            "year": "2010"
+          },
+          "Franklin": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3947,
+            "rep_votes": 4751,
+            "other_votes": 16,
+            "total_votes": 8714,
+            "two_party_total": 8698,
+            "margin": 804,
+            "margin_pct": "R+9.23",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4751,
+            "competitiveness": {
+              "category": "Likely",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LIKELY",
+              "color": "#fb6a4a"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3947,
+              "REPUBLICAN": 4751,
+              "NONPARTISAN": 16
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3947,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4751,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 16,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Franklin",
+            "year": "2010"
+          },
+          "Geneva": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4079,
+            "rep_votes": 5605,
+            "other_votes": 24,
+            "total_votes": 9708,
+            "two_party_total": 9684,
+            "margin": 1526,
+            "margin_pct": "R+15.72",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 5605,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4079,
+              "REPUBLICAN": 5605,
+              "NONPARTISAN": 24
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4079,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 5605,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 24,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Geneva",
+            "year": "2010"
+          },
+          "Greene": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3668,
+            "rep_votes": 665,
+            "other_votes": 1,
+            "total_votes": 4334,
+            "two_party_total": 4333,
+            "margin": 3003,
+            "margin_pct": "D+69.29",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3668,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3668,
+              "REPUBLICAN": 665,
+              "NONPARTISAN": 1
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3668,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 665,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 1,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Greene",
+            "year": "2010"
+          },
+          "Hale": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4116,
+            "rep_votes": 2402,
+            "other_votes": 5,
+            "total_votes": 6523,
+            "two_party_total": 6518,
+            "margin": 1714,
+            "margin_pct": "D+26.28",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 4116,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_STRONGHOLD",
+              "color": "#3182bd"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4116,
+              "REPUBLICAN": 2402,
+              "NONPARTISAN": 5
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4116,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 2402,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 5,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Hale",
+            "year": "2010"
+          },
+          "Henry": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3522,
+            "rep_votes": 3286,
+            "other_votes": 16,
+            "total_votes": 6824,
+            "two_party_total": 6808,
+            "margin": 236,
+            "margin_pct": "D+3.46",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3522,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LEAN",
+              "color": "#c6dbef"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3522,
+              "REPUBLICAN": 3286,
+              "NONPARTISAN": 16
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3522,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3286,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 16,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Henry",
+            "year": "2010"
+          },
+          "Houston": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 15724,
+            "rep_votes": 17057,
+            "other_votes": 69,
+            "total_votes": 32850,
+            "two_party_total": 32781,
+            "margin": 1333,
+            "margin_pct": "R+4.06",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 17057,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LEAN",
+              "color": "#fcae91"
+            },
+            "all_parties": {
+              "DEMOCRAT": 15724,
+              "REPUBLICAN": 17057,
+              "NONPARTISAN": 69
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 15724,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 17057,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 69,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Houston",
+            "year": "2010"
+          },
+          "Jackson": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 6794,
+            "rep_votes": 8606,
+            "other_votes": 38,
+            "total_votes": 15438,
+            "two_party_total": 15400,
+            "margin": 1812,
+            "margin_pct": "R+11.74",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 8606,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 6794,
+              "REPUBLICAN": 8606,
+              "NONPARTISAN": 38
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 6794,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 8606,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 38,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Jackson",
+            "year": "2010"
+          },
+          "Jefferson": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 106959,
+            "rep_votes": 103802,
+            "other_votes": 1684,
+            "total_votes": 212445,
+            "two_party_total": 210761,
+            "margin": 3157,
+            "margin_pct": "D+1.49",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 106959,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_LEAN",
+              "color": "#c6dbef"
+            },
+            "all_parties": {
+              "DEMOCRAT": 106959,
+              "REPUBLICAN": 103802,
+              "NONPARTISAN": 1684
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 106959,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 103802,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 1684,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Jefferson",
+            "year": "2010"
+          },
+          "Lamar": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 1580,
+            "rep_votes": 3369,
+            "other_votes": 7,
+            "total_votes": 4956,
+            "two_party_total": 4949,
+            "margin": 1789,
+            "margin_pct": "R+36.10",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 3369,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 1580,
+              "REPUBLICAN": 3369,
+              "NONPARTISAN": 7
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 1580,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3369,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 7,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Lamar",
+            "year": "2010"
+          },
+          "Lauderdale": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 10849,
+            "rep_votes": 17074,
+            "other_votes": 71,
+            "total_votes": 27994,
+            "two_party_total": 27923,
+            "margin": 6225,
+            "margin_pct": "R+22.24",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 17074,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 10849,
+              "REPUBLICAN": 17074,
+              "NONPARTISAN": 71
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 10849,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 17074,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 71,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Lauderdale",
+            "year": "2010"
+          },
+          "Lawrence": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5547,
+            "rep_votes": 6036,
+            "other_votes": 24,
+            "total_votes": 11607,
+            "two_party_total": 11583,
+            "margin": 489,
+            "margin_pct": "R+4.21",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 6036,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LEAN",
+              "color": "#fcae91"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5547,
+              "REPUBLICAN": 6036,
+              "NONPARTISAN": 24
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5547,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 6036,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 24,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Lawrence",
+            "year": "2010"
+          },
+          "Lee": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 13846,
+            "rep_votes": 19704,
+            "other_votes": 269,
+            "total_votes": 33819,
+            "two_party_total": 33550,
+            "margin": 5858,
+            "margin_pct": "R+17.32",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 19704,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 13846,
+              "REPUBLICAN": 19704,
+              "NONPARTISAN": 269
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 13846,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 19704,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 269,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Lee",
+            "year": "2010"
+          },
+          "Limestone": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 8593,
+            "rep_votes": 17346,
+            "other_votes": 60,
+            "total_votes": 25999,
+            "two_party_total": 25939,
+            "margin": 8753,
+            "margin_pct": "R+33.67",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 17346,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 8593,
+              "REPUBLICAN": 17346,
+              "NONPARTISAN": 60
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 8593,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 17346,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 60,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Limestone",
+            "year": "2010"
+          },
+          "Lowndes": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4100,
+            "rep_votes": 1231,
+            "other_votes": 5,
+            "total_votes": 5336,
+            "two_party_total": 5331,
+            "margin": 2869,
+            "margin_pct": "D+53.77",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 4100,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4100,
+              "REPUBLICAN": 1231,
+              "NONPARTISAN": 5
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4100,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 1231,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 5,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Lowndes",
+            "year": "2010"
+          },
+          "Macon": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 6634,
+            "rep_votes": 919,
+            "other_votes": 5,
+            "total_votes": 7558,
+            "two_party_total": 7553,
+            "margin": 5715,
+            "margin_pct": "D+75.62",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 6634,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 6634,
+              "REPUBLICAN": 919,
+              "NONPARTISAN": 5
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 6634,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 919,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 5,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Macon",
+            "year": "2010"
+          },
+          "Madison": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 42090,
+            "rep_votes": 65963,
+            "other_votes": 323,
+            "total_votes": 108376,
+            "two_party_total": 108053,
+            "margin": 23873,
+            "margin_pct": "R+22.03",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 65963,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 42090,
+              "REPUBLICAN": 65963,
+              "NONPARTISAN": 323
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 42090,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 65963,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 323,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Madison",
+            "year": "2010"
+          },
+          "Marengo": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5084,
+            "rep_votes": 3790,
+            "other_votes": 25,
+            "total_votes": 8899,
+            "two_party_total": 8874,
+            "margin": 1294,
+            "margin_pct": "D+14.54",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 5084,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_SAFE",
+              "color": "#6baed6"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5084,
+              "REPUBLICAN": 3790,
+              "NONPARTISAN": 25
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5084,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3790,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 25,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Marengo",
+            "year": "2010"
+          },
+          "Marion": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2994,
+            "rep_votes": 5895,
+            "other_votes": 32,
+            "total_votes": 8921,
+            "two_party_total": 8889,
+            "margin": 2901,
+            "margin_pct": "R+32.52",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 5895,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2994,
+              "REPUBLICAN": 5895,
+              "NONPARTISAN": 32
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2994,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 5895,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 32,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Marion",
+            "year": "2010"
+          },
+          "Marshall": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 7521,
+            "rep_votes": 18164,
+            "other_votes": 103,
+            "total_votes": 25788,
+            "two_party_total": 25685,
+            "margin": 10643,
+            "margin_pct": "R+41.27",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 18164,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 7521,
+              "REPUBLICAN": 18164,
+              "NONPARTISAN": 103
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 7521,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 18164,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 103,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Marshall",
+            "year": "2010"
+          },
+          "Mobile": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 48000,
+            "rep_votes": 61479,
+            "other_votes": 1188,
+            "total_votes": 110667,
+            "two_party_total": 109479,
+            "margin": 13479,
+            "margin_pct": "R+12.18",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 61479,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 48000,
+              "REPUBLICAN": 61479,
+              "NONPARTISAN": 1188
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 48000,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 61479,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 1188,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Mobile",
+            "year": "2010"
+          },
+          "Monroe": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3413,
+            "rep_votes": 4103,
+            "other_votes": 34,
+            "total_votes": 7550,
+            "two_party_total": 7516,
+            "margin": 690,
+            "margin_pct": "R+9.14",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4103,
+            "competitiveness": {
+              "category": "Likely",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LIKELY",
+              "color": "#fb6a4a"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3413,
+              "REPUBLICAN": 4103,
+              "NONPARTISAN": 34
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3413,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4103,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 34,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Monroe",
+            "year": "2010"
+          },
+          "Montgomery": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 43439,
+            "rep_votes": 30046,
+            "other_votes": 523,
+            "total_votes": 74008,
+            "two_party_total": 73485,
+            "margin": 13393,
+            "margin_pct": "D+18.10",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 43439,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_SAFE",
+              "color": "#6baed6"
+            },
+            "all_parties": {
+              "DEMOCRAT": 43439,
+              "REPUBLICAN": 30046,
+              "NONPARTISAN": 523
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 43439,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 30046,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 523,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Montgomery",
+            "year": "2010"
+          },
+          "Morgan": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 12169,
+            "rep_votes": 26976,
+            "other_votes": 108,
+            "total_votes": 39253,
+            "two_party_total": 39145,
+            "margin": 14807,
+            "margin_pct": "R+37.72",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 26976,
+            "competitiveness": {
+              "category": "Dominant",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_DOMINANT",
+              "color": "#a50f15"
+            },
+            "all_parties": {
+              "DEMOCRAT": 12169,
+              "REPUBLICAN": 26976,
+              "NONPARTISAN": 108
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 12169,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 26976,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 108,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Morgan",
+            "year": "2010"
+          },
+          "Perry": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3303,
+            "rep_votes": 1143,
+            "other_votes": 12,
+            "total_votes": 4458,
+            "two_party_total": 4446,
+            "margin": 2160,
+            "margin_pct": "D+48.45",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3303,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3303,
+              "REPUBLICAN": 1143,
+              "NONPARTISAN": 12
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3303,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 1143,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 12,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Perry",
+            "year": "2010"
+          },
+          "Pickens": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3280,
+            "rep_votes": 4226,
+            "other_votes": 9,
+            "total_votes": 7515,
+            "two_party_total": 7506,
+            "margin": 946,
+            "margin_pct": "R+12.59",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4226,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3280,
+              "REPUBLICAN": 4226,
+              "NONPARTISAN": 9
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3280,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4226,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 9,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Pickens",
+            "year": "2010"
+          },
+          "Pike": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4685,
+            "rep_votes": 5001,
+            "other_votes": 21,
+            "total_votes": 9707,
+            "two_party_total": 9686,
+            "margin": 316,
+            "margin_pct": "R+3.26",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 5001,
+            "competitiveness": {
+              "category": "Lean",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LEAN",
+              "color": "#fcae91"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4685,
+              "REPUBLICAN": 5001,
+              "NONPARTISAN": 21
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4685,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 5001,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 21,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Pike",
+            "year": "2010"
+          },
+          "Randolph": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2840,
+            "rep_votes": 4453,
+            "other_votes": 18,
+            "total_votes": 7311,
+            "two_party_total": 7293,
+            "margin": 1613,
+            "margin_pct": "R+22.06",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 4453,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2840,
+              "REPUBLICAN": 4453,
+              "NONPARTISAN": 18
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2840,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4453,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 18,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Randolph",
+            "year": "2010"
+          },
+          "Russell": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 6558,
+            "rep_votes": 4917,
+            "other_votes": 23,
+            "total_votes": 11498,
+            "two_party_total": 11475,
+            "margin": 1641,
+            "margin_pct": "D+14.27",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 6558,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_SAFE",
+              "color": "#6baed6"
+            },
+            "all_parties": {
+              "DEMOCRAT": 6558,
+              "REPUBLICAN": 4917,
+              "NONPARTISAN": 23
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 6558,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 4917,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 23,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Russell",
+            "year": "2010"
+          },
+          "St Clair": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 5878,
+            "rep_votes": 18742,
+            "other_votes": 156,
+            "total_votes": 24776,
+            "two_party_total": 24620,
+            "margin": 12864,
+            "margin_pct": "R+51.92",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 18742,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 5878,
+              "REPUBLICAN": 18742,
+              "NONPARTISAN": 156
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 5878,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 18742,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 156,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "St Clair",
+            "year": "2010"
+          },
+          "Shelby": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 13589,
+            "rep_votes": 49192,
+            "other_votes": 564,
+            "total_votes": 63345,
+            "two_party_total": 62781,
+            "margin": 35603,
+            "margin_pct": "R+56.20",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 49192,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 13589,
+              "REPUBLICAN": 49192,
+              "NONPARTISAN": 564
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 13589,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 49192,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 564,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Shelby",
+            "year": "2010"
+          },
+          "Sumter": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 4290,
+            "rep_votes": 1306,
+            "other_votes": 8,
+            "total_votes": 5604,
+            "two_party_total": 5596,
+            "margin": 2984,
+            "margin_pct": "D+53.25",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 4290,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 4290,
+              "REPUBLICAN": 1306,
+              "NONPARTISAN": 8
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 4290,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 1306,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 8,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Sumter",
+            "year": "2010"
+          },
+          "Talladega": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 10773,
+            "rep_votes": 13200,
+            "other_votes": 86,
+            "total_votes": 24059,
+            "two_party_total": 23973,
+            "margin": 2427,
+            "margin_pct": "R+10.09",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 13200,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 10773,
+              "REPUBLICAN": 13200,
+              "NONPARTISAN": 86
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 10773,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 13200,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 86,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Talladega",
+            "year": "2010"
+          },
+          "Tallapoosa": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 6733,
+            "rep_votes": 9023,
+            "other_votes": 11,
+            "total_votes": 15767,
+            "two_party_total": 15756,
+            "margin": 2290,
+            "margin_pct": "R+14.52",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 9023,
+            "competitiveness": {
+              "category": "Safe",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_SAFE",
+              "color": "#ef3b2c"
+            },
+            "all_parties": {
+              "DEMOCRAT": 6733,
+              "REPUBLICAN": 9023,
+              "NONPARTISAN": 11
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 6733,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 9023,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 11,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Tallapoosa",
+            "year": "2010"
+          },
+          "Tuscaloosa": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 20146,
+            "rep_votes": 34206,
+            "other_votes": 223,
+            "total_votes": 54575,
+            "two_party_total": 54352,
+            "margin": 14060,
+            "margin_pct": "R+25.76",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 34206,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 20146,
+              "REPUBLICAN": 34206,
+              "NONPARTISAN": 223
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 20146,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 34206,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 223,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Tuscaloosa",
+            "year": "2010"
+          },
+          "Walker": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 8685,
+            "rep_votes": 13804,
+            "other_votes": 94,
+            "total_votes": 22583,
+            "two_party_total": 22489,
+            "margin": 5119,
+            "margin_pct": "R+22.67",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 13804,
+            "competitiveness": {
+              "category": "Stronghold",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_STRONGHOLD",
+              "color": "#cb181d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 8685,
+              "REPUBLICAN": 13804,
+              "NONPARTISAN": 94
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 8685,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 13804,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 94,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Walker",
+            "year": "2010"
+          },
+          "Washington": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2733,
+            "rep_votes": 3336,
+            "other_votes": 24,
+            "total_votes": 6093,
+            "two_party_total": 6069,
+            "margin": 603,
+            "margin_pct": "R+9.90",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 3336,
+            "competitiveness": {
+              "category": "Likely",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_LIKELY",
+              "color": "#fb6a4a"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2733,
+              "REPUBLICAN": 3336,
+              "NONPARTISAN": 24
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2733,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 3336,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 24,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Washington",
+            "year": "2010"
+          },
+          "Wilcox": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 3824,
+            "rep_votes": 1146,
+            "other_votes": 5,
+            "total_votes": 4975,
+            "two_party_total": 4970,
+            "margin": 2678,
+            "margin_pct": "D+53.83",
+            "winner": "DEMOCRAT",
+            "winner_name": "Sparks",
+            "winner_party": "DEMOCRAT",
+            "winner_incumbent": false,
+            "winner_votes": 3824,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "DEMOCRAT",
+              "code": "DEMOCRAT_ANNIHILATION",
+              "color": "#08306b"
+            },
+            "all_parties": {
+              "DEMOCRAT": 3824,
+              "REPUBLICAN": 1146,
+              "NONPARTISAN": 5
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 3824,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 1146,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 5,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Wilcox",
+            "year": "2010"
+          },
+          "Winston": {
+            "dem_candidate": "Sparks",
+            "rep_candidate": "Bentley",
+            "dem_votes": 2045,
+            "rep_votes": 6031,
+            "other_votes": 25,
+            "total_votes": 8101,
+            "two_party_total": 8076,
+            "margin": 3986,
+            "margin_pct": "R+49.20",
+            "winner": "REPUBLICAN",
+            "winner_name": "Bentley",
+            "winner_party": "REPUBLICAN",
+            "winner_incumbent": false,
+            "winner_votes": 6031,
+            "competitiveness": {
+              "category": "Annihilation",
+              "party": "REPUBLICAN",
+              "code": "REPUBLICAN_ANNIHILATION",
+              "color": "#67000d"
+            },
+            "all_parties": {
+              "DEMOCRAT": 2045,
+              "REPUBLICAN": 6031,
+              "NONPARTISAN": 25
+            },
+            "candidates": {
+              "Sparks": {
+                "votes": 2045,
+                "party": "DEMOCRAT",
+                "incumbent": false
+              },
+              "Bentley": {
+                "votes": 6031,
+                "party": "REPUBLICAN",
+                "incumbent": false
+              },
+              "Write-ins": {
+                "votes": 25,
+                "party": "NONPARTISAN",
+                "incumbent": false
+              }
+            },
+            "contest": "Governor",
+            "county": "Winston",
+            "year": "2010"
+          }
+        }
+      },
       "lieutenant_governor_2010": {
         "contest_name": "Lieutenant Governor",
         "date": "20100101",
