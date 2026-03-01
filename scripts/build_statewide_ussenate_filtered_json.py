@@ -165,8 +165,10 @@ AGGREGATE_CANDIDATE_LABELS = {
 }
 
 # Known bad rows in normalized presidential office extracts.
-# 2024 file includes a non-presidential candidate mixed into president rows.
+# 2016 and 2024 files include Twinkle Andress Cavanaugh (PSC candidate)
+# mixed into president rows due to a spreadsheet layout issue.
 PRESIDENT_CANDIDATE_EXCLUDES = {
+    ("2016", "TWINKLE ANDRESS CAVANAUGH"),
     ("2024", "TWINKLE ANDRESS CAVANAUGH"),
 }
 
@@ -222,7 +224,16 @@ def contest_key_from_title(title: str) -> tuple[str, str] | None:
     t = title.upper()
     t = re.sub(r"\s+", " ", t).strip()
 
+    # Check PSC *before* the generic PRESIDENT check because Alabama uses
+    # titles like "PRESIDENT, PUBLIC SERVICE COMMISSION" which start with
+    # "PRESIDENT" but are not presidential elections.
+    if "PUBLIC SERVICE COMMISSION" in t:
+        return "public_service_commissioner", "Public Service Commissioner"
     if "PRESIDENT" in t and "VICE-PRESIDENT" in t:
+        return "president", "President"
+    if "PRESIDENT" in t and "VICE PRESIDENT" in t:
+        return "president", "President"
+    if "PRESIDENT AND VICE PRESIDENT" in t:
         return "president", "President"
     if t.startswith("PRESIDENT"):
         return "president", "President"
@@ -238,8 +249,6 @@ def contest_key_from_title(title: str) -> tuple[str, str] | None:
         return "state_treasurer", "State Treasurer"
     if "STATE AUDITOR" in t or t.startswith("AUDITOR"):
         return "state_auditor", "State Auditor"
-    if "PUBLIC SERVICE COMMISSION" in t:
-        return "public_service_commissioner", "Public Service Commissioner"
     if "AGRICULTURE" in t and "COMMISSIONER" in t:
         return "commissioner_of_agriculture", "Commissioner of Agriculture"
     if "GOVERNOR" in t and "LIEUTENANT" not in t:
@@ -785,8 +794,11 @@ def main() -> None:
 
     # Backfill president from county-level president CSV extracts (1976+ sources).
     all_rows.extend(load_president_rows_from_csvs())
-    # Backfill modern presidential county-general CSV extracts (2016+ sources).
-    all_rows.extend(load_president_rows_from_office_csvs())
+    # NOTE: load_president_rows_from_office_csvs() is intentionally NOT called here.
+    # The openelections_office_normalized_2016_2024 directory is an *output* of the
+    # export script (export_2016_2024_openelections_normalized.py), so reading it back
+    # in would create a circular dependency and double-count XLS-derived vote totals.
+    # Presidential data for 2016/2020/2024 is fully covered by the XLS workbooks.
     # Backfill U.S. Senate county general-election CSV extracts.
     all_rows.extend(load_ussenate_rows_from_csvs())
     # Backfill statewide offices from normalized county general-election CSV extracts.

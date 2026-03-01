@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 
-INPUT_JSON = Path("results_by_year_grouped.statewide_plus_ussenate_1968_2026.json")
+INPUT_JSON = Path("data/results_by_year_grouped.statewide_plus_ussenate_1968_2026.json")
 OUTPUT_DIR = Path("data/openelections_office_normalized_2016_2024")
 
 YEAR_MIN = 2016
